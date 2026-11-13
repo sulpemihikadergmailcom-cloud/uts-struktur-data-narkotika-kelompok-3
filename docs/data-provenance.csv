@@ -1,0 +1,801 @@
+﻿case_id;field_name;value;source_file;source_page;extractor;reviewer;status
+KDR-001;caseId;KDR-001;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;;Sulpemi;Nurul;verified
+KDR-001;nomorPerkara;2/Pid.Sus/2024/PN Kdr;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;1;Sulpemi;Nurul;verified
+KDR-001;pengadilan;Pengedilan Negri Kediri;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;1;Sulpemi;Nurul;verified
+KDR-001;tanggalPutusan;26/02/2024;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;22;Sulpemi;Nurul;verified
+KDR-001;terdakwaKode;Null;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;1;Sulpemi;Nurul;verified
+KDR-001;jenisNarkotika;Sabu;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-001;beratBarangBuktiGram;19,69;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;19,21;Sulpemi;Nurul;verified
+KDR-001;pasalDakwaan;Pasal 114 ayat (2) UU RI Nomor 35 Tahun 2009 tentang Narkotika SUBSIDER Pasal 112 ayat (2) UU RI Nomor 35 Tahun 2009 tentang Narkotika;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-001;pasalTerbukti;Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 tentang Narkotika;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;17,2;Sulpemi;Nurul;verified
+KDR-001;tuntutanBulan;120;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;2,2;Sulpemi;Nurul;verified
+KDR-001;vonisBulan;120;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;20;Sulpemi;Nurul;verified
+KDR-001;dendaRupiah;Rp. 1.000.000.000;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;18,2;Sulpemi;Nurul;verified
+KDR-001;barangBukti;5 klip sabu (netto 19.69g), pembungkus/klip, timbangan digital, 2 sekop, kotak HP, HP Oppo A-92, motor Honda Beat AG-5709-DO;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-001;keadaanMemberatkan;"Perbuatan Terdakwa meresahkan masyarakat; Perbuatan Terdakwa menghambat program pemerintah dalam pemberantasan penyalahgunaan narkotika";putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;20;Sulpemi;Nurul;verified
+KDR-001;keadaanMeringankan;"Terdakwa bersikap sopan di persidangan; Terdakwa mengakui terus terang perbuatannya";putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;20;Sulpemi;Nurul;verified
+KDR-001;sourcePages;1-20,21,22;putusan_2_pid.sus_2024_pn_kdr_20261104173625.pdf;;Sulpemi;Nurul;verified
+KDR-002;caseId;KDR-002;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;;Sulpemi;Nurul;verified
+KDR-002;nomorPerkara;6/Pid.Sus/2024/PN Kdr;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;1;Sulpemi;Nurul;verified
+KDR-002;pengadilan;Pengedilan Negri Kediri;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;1;Sulpemi;Nurul;verified
+KDR-002;tanggalPutusan;03/04/2024;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;29;Sulpemi;Nurul;verified
+KDR-002;terdakwaKode;Null;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;1;Sulpemi;Nurul;verified
+KDR-002;jenisNarkotika;Sabu;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-002;beratBarangBuktiGram;8,52;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;28,27;Sulpemi;Nurul;verified
+KDR-002;pasalDakwaan;Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 tentang Narkotika ATAU Pasal 112 ayat (2) UU RI No. 35 Tahun 2009 tentang Narkotika DAN Pasal 435 UU No. 17 Tahun 2023 tentang Kesehatan;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-002;pasalTerbukti;Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 tentang Narkotika DAN Pasal 435 UU No. 17 Tahun 2023 tentang Kesehatan;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;26,28;Sulpemi;Nurul;verified
+KDR-002;tuntutanBulan;132;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;2,21;Sulpemi;Nurul;verified
+KDR-002;vonisBulan;132;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;27;Sulpemi;Nurul;verified
+KDR-002;dendaRupiah;Rp. 1.000.000.000;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;27,28;Sulpemi;Nurul;verified
+KDR-002;barangBukti;7 klip sabu (8.52g), 75rb pil LL, 2 timbangan digital, plastik klip, alat sealer, karung sak;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;2,12,13;Sulpemi;Nurul;verified
+KDR-002;keadaanMemberatkan;"Bertentangan dengan program pemerintah; Merusak masyarakat & generasi muda; Merusak kesehatan orang lain";putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;26,27;Sulpemi;Nurul;verified
+KDR-002;keadaanMeringankan;"Terdakwa belum pernah dijatuhi pidana; Umur Terdakwa masih muda";putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;26,28;Sulpemi;Nurul;verified
+KDR-002;sourcePages;1-20,21-29;putusan_6_pid.sus_2024_pn_kdr_20261104173554.pdf;;Sulpemi;Nurul;verified
+KDR-003;caseId;KDR-003;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;;Sulpemi;Nurul;verified
+KDR-003;nomorPerkara;13/Pid.Sus/2024/PN Kdr;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;1;Sulpemi;Nurul;verified
+KDR-003;pengadilan;Pengedilan Negri Kediri;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;1;Sulpemi;Nurul;verified
+KDR-003;tanggalPutusan;07/03/2024;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;31;Sulpemi;Nurul;verified
+KDR-003;terdakwaKode;Null;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;1;Sulpemi;Nurul;verified
+KDR-003;jenisNarkotika;Sabu (Metamfetamina);putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-003;beratBarangBuktiGram;3,59;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;29,31;Sulpemi;Nurul;verified
+KDR-003;pasalDakwaan;Kesatu Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika, Kesatu Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika, Kedua: Pasal 435 UU No. 17 Tahun 2023 tentang Kesehatan;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-003;pasalTerbukti;Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika dan Pasal 435 UU No. 17 Tahun 2023 tentang Kesehatan;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;28,3;Sulpemi;Nurul;verified
+KDR-003;tuntutanBulan;108;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;2,9;Sulpemi;Nurul;verified
+KDR-003;vonisBulan;102;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;30;Sulpemi;Nurul;verified
+KDR-003;dendaRupiah;Rp. 1.000.000.000;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;29,31;Sulpemi;Nurul;verified
+KDR-003;barangBukti;3 bungkus shabu berat kotor 3,59 gram, 898 butir pil double L, 600 butir pil dextro, 1 pak plastik klip, 1 timbangan digital, 2 pipet kaca, 2 botol plastik, 2 bong, 2 skrop, 1 HP android;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-003;keadaanMemberatkan;Perbuatan Terdakwa tidak menunjang program pemerintah dalam rangka pemberantasan peredaran narkotika dan obat-obatan;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;28,3;Sulpemi;Nurul;verified
+KDR-003;keadaanMeringankan;"Terdakwa bersikap sopan di persidangan; Terdakwa menyesal dan mengakui perbuatannya dan berjanji tidak mengulanginya lagi; Terdakwa masih berusia muda sehingga diharapkan dapat memperbaiki behavionya";putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;28,3;Sulpemi;Nurul;verified
+KDR-003;sourcePages;1, 2, 3, 30, 31;putusan_13_pid.sus_2024_pn_kdr_20261104174150.pdf;;Sulpemi;Nurul;verified
+KDR-004;caseId;KDR-004;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;;Sulpemi;Nurul;verified
+KDR-004;nomorPerkara;17/Pid.Sus/2024/PN Kdr;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;1;Sulpemi;Nurul;verified
+KDR-004;pengadilan;Pengedilan Negri Kediri;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;1;Sulpemi;Nurul;verified
+KDR-004;tanggalPutusan;20/03/2024;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;23;Sulpemi;Nurul;verified
+KDR-004;terdakwaKode;Null;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;1;Sulpemi;Nurul;verified
+KDR-004;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;3,4,5;Sulpemi;Nurul;verified
+KDR-004;beratBarangBuktiGram;01:00;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;;Sulpemi;Nurul;verified
+KDR-004;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika";putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;3,6,8;Sulpemi;Nurul;verified
+KDR-004;pasalTerbukti;Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika jo Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;20,23;Sulpemi;Nurul;verified
+KDR-004;tuntutanBulan;108;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;3,2;Sulpemi;Nurul;verified
+KDR-004;vonisBulan;96;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;22;Sulpemi;Nurul;verified
+KDR-004;dendaRupiah;Rp. 1.000.000.000;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;21;Sulpemi;Nurul;verified
+KDR-004;barangBukti;2 paket sabu-sabu (0,55 gram dan 0,45 gram), 1 set alat hisap sabu (1 pipet kaca & 1 korek api gas), 1 timbangan digital warna hitam, 1 bendel klip plastik kecil, 3 skrup sedotan plastik, 1 HP Redmi 12C warna hitam, 1 HP Redmi A1 warna hitam;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;3,18,23;Sulpemi;Nurul;verified
+KDR-004;keadaanMemberatkan;"Tidak mendukung program pemerintah; Merusak generasi muda; Meresahkan masyarakat";putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;22;Sulpemi;Nurul;verified
+KDR-004;keadaanMeringankan;"Para Terdakwa bersikap sopan dalam persidangan; Para Terdakwa menyesali perbuatannya; Para Terdakwa belum pernah dipidana";putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;22;Sulpemi;Nurul;verified
+KDR-004;sourcePages;1, 2, 3, 22, 23;putusan_17_pid.sus_2024_pn_kdr_20261104174551.pdf;;Sulpemi;Nurul;verified
+KDR-005;caseId;KDR-005;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;;Sulpemi;Nurul;verified
+KDR-005;nomorPerkara;20/Pid.Sus/2024/PN Kdr;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;1;Sulpemi;Nurul;verified
+KDR-005;pengadilan;Pengedilan Negri Kediri;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;1;Sulpemi;Nurul;verified
+KDR-005;tanggalPutusan;26/03/2024;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;39;Sulpemi;Nurul;verified
+KDR-005;terdakwaKode;Null;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;1;Sulpemi;Nurul;verified
+KDR-005;jenisNarkotika;Sabu (Metamfetamina);putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-005;beratBarangBuktiGram;00:10;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;4,7,10;Sulpemi;Nurul;verified
+KDR-005;pasalDakwaan;Kesatu Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika, Kesatu Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika, Kedua: Pasal 435 UU No. 17 Tahun 2023 tentang Kesehatan;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;2,3,6;Sulpemi;Nurul;verified
+KDR-005;pasalTerbukti;Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika dan Pasal 435 UU No. 17 Tahun 2023 tentang Kesehatan;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;38;Sulpemi;Nurul;verified
+KDR-005;tuntutanBulan;96;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;2,3;Sulpemi;Nurul;verified
+KDR-005;vonisBulan;114;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;37;Sulpemi;Nurul;verified
+KDR-005;dendaRupiah;Rp. 1.000.000.000;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;36;Sulpemi;Nurul;verified
+KDR-005;barangBukti;900 butir pil double L, 1 plastik klip sabu berat bersih 0,10 gram, 1 set bong, 2 pipet kaca, 1 sekrop sedotan, 1 kardus green laser pointer, 1 kresek hitam, 1 korek gas, 19 pak plastik klip, 1 timbangan digital, 1 HP Oppo A95;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;2,4,7;Sulpemi;Nurul;verified
+KDR-005;keadaanMemberatkan;"erbuatan Terdakwa bertentangan dengan program pemerintah; Meresahkan masyarakat";putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;35,37;Sulpemi;Nurul;verified
+KDR-005;keadaanMeringankan;"Terdakwa belum pernah dihukum; Terdakwa sangat menyesali perbuatannya dan berjanji tidak mengulangi";putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;35,38;Sulpemi;Nurul;verified
+KDR-005;sourcePages;1, 2, 3, 38, 39;putusan_20_pid.sus_2025_pn_kdr_20261104171035.pdf;;Sulpemi;Nurul;verified
+KDR-006;caseId;KDR-006;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;;Sulpemi;Nurul;verified
+KDR-006;nomorPerkara;28/Pid.Sus/2024/PN Kdr;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;1;Sulpemi;Nurul;verified
+KDR-006;pengadilan;Pengedilan Negri Kediri;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;1;Sulpemi;Nurul;verified
+KDR-006;tanggalPutusan;18/04/2024;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;24;Sulpemi;Nurul;verified
+KDR-006;terdakwaKode;Null;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;1;Sulpemi;Nurul;verified
+KDR-006;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-006;beratBarangBuktiGram;00:48;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;;Sulpemi;Nurul;verified
+KDR-006;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika";putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-006;pasalTerbukti;Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;21;Sulpemi;Nurul;verified
+KDR-006;tuntutanBulan;60;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;2,17;Sulpemi;Nurul;verified
+KDR-006;vonisBulan;66;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;22;Sulpemi;Nurul;verified
+KDR-006;dendaRupiah;Rp. 1.000.000.000;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;22,23;Sulpemi;Nurul;verified
+KDR-006;barangBukti;1 pocket sabu berat 0,48 gram beserta plastik klip, 1 bungkus bekas rokok Apache, 1 HP Oppo warna putih beserta simcard, uang tunai Rp50.000,-;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-006;keadaanMemberatkan;Tidak menunjang program pemerintah dalam pemberantasan peredaran narkotika;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;21,22;Sulpemi;Nurul;verified
+KDR-006;keadaanMeringankan;"Bersikap sopan di persidangan; Mengakui perbuatannya dan berjanji tidak mengulangi";putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;21,23;Sulpemi;Nurul;verified
+KDR-006;sourcePages;1, 2, 23, 24;putusan_28_pid.sus_2022_pn_kdr_20261104171658.pdf;;Sulpemi;Nurul;verified
+KDR-007;caseId;KDR-007;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;;Sulpemi;Nurul;verified
+KDR-007;nomorPerkara;65/Pid.Sus/2024/PN Kdr;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;1;Sulpemi;Nurul;verified
+KDR-007;pengadilan;Pengedilan Negri Kediri;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;1;Sulpemi;Nurul;verified
+KDR-007;tanggalPutusan;05/08/2024;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;50;Sulpemi;Nurul;verified
+KDR-007;terdakwaKode;Null;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;1;Sulpemi;Nurul;verified
+KDR-007;jenisNarkotika;Sabu-sabu (Metamfetamina) & Obat Keras (Pil logo LL / Triheksifenidil HCl);putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;2,7,8;Sulpemi;Nurul;verified
+KDR-007;beratBarangBuktiGram;01:32;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;;Sulpemi;Nurul;verified
+KDR-007;pasalDakwaan;"Kesatu Alternatif: Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua Alternatif: Pasal 112 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kesatu Kumulatif: Pasal 435 Jo Pasal 138 ayat (2) dan ayat (3) UU No. 17 Tahun 2023 tentang Kesehatan";putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;2,3,8;Sulpemi;Nurul;verified
+KDR-007;pasalTerbukti;Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika dan Pasal 435 Jo Pasal 138 ayat (2) dan ayat (3) UU No. 17 Tahun 2023 tentang Kesehatan;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;46,49;Sulpemi;Nurul;verified
+KDR-007;tuntutanBulan;102;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;2,3;Sulpemi;Nurul;verified
+KDR-007;vonisBulan;102;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;47;Sulpemi;Nurul;verified
+KDR-007;dendaRupiah;Rp. 1.000.000.000;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;49;Sulpemi;Nurul;verified
+KDR-007;barangBukti;7 paket sabu berat kotor 1,32 gram, 7 bungkus plastik berisi 5.200 butir pil LL, 1 timbangan elektrik hitam, 1 bungkus rokok Surya merah, 1 plastik berisi 9 pack plastik klip, 1 gulung bubble wrap hitam, 1 kardus coklat, 1 karung plastik putih, uang tunai Rp120.000,-, 1 HP Redmi warna hitam;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;2,7,12;Sulpemi;Nurul;verified
+KDR-007;keadaanMemberatkan;"Tidak mendukung program pemerintah dalam memberantas peredaran narkotika dan obat keras pil dobel L; Merusak generasi muda; Meresahkan masyarakat";putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;47,49;Sulpemi;Nurul;verified
+KDR-007;keadaanMeringankan;"Mengakui terus terang perbuatannya; Bersikap sopan selama persidangan; Menyesali perbuatannya; Merupakan tulang punggung keluarga; Belum pernah dihukum";putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;47,49;Sulpemi;Nurul;verified
+KDR-007;sourcePages;1, 2, 8, 18, 47, 49, 50;putusan_65_pid.sus_2024_pn_kdr_20261104171233.pdf;;Sulpemi;Nurul;verified
+KDR-008;caseId;KDR-008;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;;Sulpemi;Nurul;verified
+KDR-008;nomorPerkara;89/Pid.Sus/2024/PN Kdr;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;1;Sulpemi;Nurul;verified
+KDR-008;pengadilan;Pengedilan Negri Kediri;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;1;Sulpemi;Nurul;verified
+KDR-008;tanggalPutusan;31/07/2023;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;25;Sulpemi;Nurul;verified
+KDR-008;terdakwaKode;Null;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;1;Sulpemi;Nurul;verified
+KDR-008;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;2,4,5;Sulpemi;Nurul;verified
+KDR-008;beratBarangBuktiGram;05:01;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;;Sulpemi;Nurul;verified
+KDR-008;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika";putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;2,3,6;Sulpemi;Nurul;verified
+KDR-008;pasalTerbukti;Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;21,24;Sulpemi;Nurul;verified
+KDR-008;tuntutanBulan;78;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;1,2;Sulpemi;Nurul;verified
+KDR-008;vonisBulan;102;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;23;Sulpemi;Nurul;verified
+KDR-008;dendaRupiah;Rp. 1.000.000.000;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;22,24;Sulpemi;Nurul;verified
+KDR-008;barangBukti;7 kantong plastik klip sabu (berat bruto total 5,1 gram), 2 plastik klip kosong uk. 5x4 cm, 1 plastik klip kosong uk. 10x6 cm, 1 sedotan plastik panjang 9 cm, 1 baskom magicom, 1 HP OPPO A15 warna hitam;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;9,10,12;Sulpemi;Nurul;verified
+KDR-008;keadaanMemberatkan;"Perbuatan Terdakwa menimbulkan keresahan dan merusak kestabilan hidup bermasyarakat khususnya generasi muda; Terdakwa tidak mendukung pemerintah dan masyarakat yang sedang giat memberantas penyalahgunaan narkotika";putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;23;Sulpemi;Nurul;verified
+KDR-008;keadaanMeringankan;"Terdakwa berterus terang sehingga mempermudah pemeriksaan persidangan; Terdakwa belum pernah dijatuhi pidana; Terdakwa merasa bersalah dan menyesali perbuatannya";putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;23;Sulpemi;Nurul;verified
+KDR-008;sourcePages;1, 2, 3, 6, 9, 23, 24, 25;putusan_89_pid.sus_2023_pn_kdr_20261104175428.pdf;;Sulpemi;Nurul;verified
+KDR-009;caseId;KDR-009;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;;Sulpemi;Nurul;verified
+KDR-009;nomorPerkara;117/Pid.Sus/2022/PN Kdr;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;1;Sulpemi;Nurul;verified
+KDR-009;pengadilan;Pengedilan Negri Kediri;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;1;Sulpemi;Nurul;verified
+KDR-009;tanggalPutusan;10/10/2022;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;24;Sulpemi;Nurul;verified
+KDR-009;terdakwaKode;Null;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;1;Sulpemi;Nurul;verified
+KDR-009;jenisNarkotika;Sabu-sabu (Metamfetamina) & Pil Doble L (Triheksifenidil HCl);putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-009;beratBarangBuktiGram;02:56;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;;Sulpemi;Nurul;verified
+KDR-009;pasalDakwaan;"Kesatu Kumulatif Alternatif: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika atau Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua Kumulatif: Pasal 196 UU No. 36 Tahun 2009 tentang Kesehatan";putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-009;pasalTerbukti;Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika dan Pasal 196 UU No. 36 Tahun 2009 tentang Kesehatan;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;21,23;Sulpemi;Nurul;verified
+KDR-009;tuntutanBulan;87;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;2,15;Sulpemi;Nurul;verified
+KDR-009;vonisBulan;96;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;23;Sulpemi;Nurul;verified
+KDR-009;dendaRupiah;Rp. 1.000.000.000;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;21,23;Sulpemi;Nurul;verified
+KDR-009;barangBukti;4 paket klip plastik berisi sabu seberat 2,56 gram, 1 bendel plastik klip kosong, 1 bungkus kosong Kartu Remi, 1 Timbangan Digital, 1.975 butir Pil Doble L, 1 plastik klip, 1 tutup botol terangkai sedotan, 1 HP Xiaomi Poco M3 warna hitam;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-009;keadaanMemberatkan;"Perbuatan terdakwa meresahkan masyarakat; Perbuatan terdakwa menghambat program pemerintah pemberantasan penyalahgunaan narkotika dan obat terlarang";putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;23;Sulpemi;Nurul;verified
+KDR-009;keadaanMeringankan;Terdakwa mengakui terus terang perbuatannya;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;23;Sulpemi;Nurul;verified
+KDR-009;sourcePages;1, 2, 4, 6, 8, 13, 23, 24;putusan_117_pid.sus_2022_pn_kdr_20261104172206.pdf;;Sulpemi;Nurul;verified
+KDR-010;caseId;KDR-010;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;;Sulpemi;Nurul;verified
+KDR-010;nomorPerkara;119/Pid.Sus/2024/PN Kdr;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;1;Sulpemi;Nurul;verified
+KDR-010;pengadilan;Pengedilan Negri Kediri;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;1;Sulpemi;Nurul;verified
+KDR-010;tanggalPutusan;29/08/2024;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;25;Sulpemi;Nurul;verified
+KDR-010;terdakwaKode;Null;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;1;Sulpemi;Nurul;verified
+KDR-010;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-010;beratBarangBuktiGram;05:01;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-010;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Ketiga: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika";putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-010;pasalTerbukti;Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;21,24;Sulpemi;Nurul;verified
+KDR-010;tuntutanBulan;18;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;2,18;Sulpemi;Nurul;verified
+KDR-010;vonisBulan;15;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;23;Sulpemi;Nurul;verified
+KDR-010;dendaRupiah;Rp. 1.000.000.000;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;;Sulpemi;Nurul;verified
+KDR-010;barangBukti;2 klip sabu (netto 0,71g), 1 isolasi, 1 skrop, 3 pipet, 1 bong Aqua, 9 klip kosong, 1 HP Vivo Y38, 1 Motor Yamaha Mio;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-010;keadaanMemberatkan;Perbuatan Terdakwa menghambat program pemerintah dalam pemberantasan penyalahgunaan narkotika;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;23;Sulpemi;Nurul;verified
+KDR-010;keadaanMeringankan;"Terdakwa bersikap sopan di persidangan dan mengakui terus terang perbuatannya; Terdakwa belum pernah dihukum";putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;23;Sulpemi;Nurul;verified
+KDR-010;sourcePages;1, 2, 5, 7, 9, 23, 24, 25;putusan_119_pid.sus_2024_pn_kdr_20261104170834.pdf;;Sulpemi;Nurul;verified
+KDR-011;caseId;KDR-011;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;;Sulpemi;Nurul;verified
+KDR-011;nomorPerkara;120/Pid.Sus/2022/PN Kdr;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;1;Sulpemi;Nurul;verified
+KDR-011;pengadilan;Pengedilan Negri Kediri;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;1;Sulpemi;Nurul;verified
+KDR-011;tanggalPutusan;25/10/2022;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;30;Sulpemi;Nurul;verified
+KDR-011;terdakwaKode;Null;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;1;Sulpemi;Nurul;verified
+KDR-011;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;3,4,5;Sulpemi;Nurul;verified
+KDR-011;beratBarangBuktiGram;0,25;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;28,3;Sulpemi;Nurul;verified
+KDR-011;pasalDakwaan;"Primair: Pasal 114 ayat (1) Jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; Subsidair: Pasal 112 ayat (1) Jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika";putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-011;pasalTerbukti;Pasal 112 ayat (1) Jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;27,29;Sulpemi;Nurul;verified
+KDR-011;tuntutanBulan;60;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;2,4;Sulpemi;Nurul;verified
+KDR-011;vonisBulan;60;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;28;Sulpemi;Nurul;verified
+KDR-011;dendaRupiah;Rp. 800.000.000;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;28,29;Sulpemi;Nurul;verified
+KDR-011;barangBukti;1 klip sabu (bruto 0,25g / netto 0,026g), 2 pipet kaca, 1 bong, 1 korek api gas, 1 skrop sedotan, 1 HP Oppo A53, 1 HP Samsung Duos;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;3,8,9;Sulpemi;Nurul;verified
+KDR-011;keadaanMemberatkan;Perbuatan Para Terdakwa tidak menunjang program pemerintah dalam rangka pemberantasan peredaran narkoba;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;26,28;Sulpemi;Nurul;verified
+KDR-011;keadaanMeringankan;Para Terdakwa mengaku dan menyesali perbuatannya serta berjanji tidak mengulangi perbuatannya;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;29;Sulpemi;Nurul;verified
+KDR-011;sourcePages;1, 2, 3, 5, 6, 7, 13, 26, 28, 29, 30;putusan_120_pid.sus_2022_pn_kdr_20261104172633.pdf;;Sulpemi;Nurul;verified
+KDR-012;caseId;KDR-012;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;;Sulpemi;Nurul;verified
+KDR-012;nomorPerkara;124/Pid.Sus/2022/PN Kdr;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;1;Sulpemi;Nurul;verified
+KDR-012;pengadilan;Pengedilan Negri Kediri;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;1;Sulpemi;Nurul;verified
+KDR-012;tanggalPutusan;31/10/2022;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;22;Sulpemi;Nurul;verified
+KDR-012;terdakwaKode;Null;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;1;Sulpemi;Nurul;verified
+KDR-012;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;3,4,5;Sulpemi;Nurul;verified
+KDR-012;beratBarangBuktiGram;0,015;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;19,14;Sulpemi;Nurul;verified
+KDR-012;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) jo. Pasal 132 UU RI No. 35/2009; Atau Kedua: Pasal 112 ayat (1) jo. Pasal 132 UU RI No. 35/2009; Atau Ketiga: Pasal 127 ayat (1) huruf a UU RI No. 35/2009 jo. Pasal 55 ayat (1) ke-1 KUHP";putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-012;pasalTerbukti;Pasal 127 ayat (1) huruf a UU RI No. 35/2009 jo. Pasal 55 ayat (1) ke-1 KUHP;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;20,21;Sulpemi;Nurul;verified
+KDR-012;tuntutanBulan;12;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;2,16;Sulpemi;Nurul;verified
+KDR-012;vonisBulan;14;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;21;Sulpemi;Nurul;verified
+KDR-012;dendaRupiah;null;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;;Sulpemi;Nurul;verified
+KDR-012;barangBukti;1 HP Samsung Galaxy A52 warna putih;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;2,4,5;Sulpemi;Nurul;verified
+KDR-012;keadaanMemberatkan;"Perbuatan Terdakwa menghambat program pemerintah dalam pemberantasan penyalahgunaan narkotika; Terdakwa sudah pernah dihukum";putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;21;Sulpemi;Nurul;verified
+KDR-012;keadaanMeringankan;"Terdakwa bersikap sopan di persidangan; Terdakwa mengakui terus terang perbuatannya sehingga memperlancar proses persidangan";putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;21;Sulpemi;Nurul;verified
+KDR-012;sourcePages;1, 2, 4, 5, 7, 8, 14, 19, 21, 22;putusan_124_pid.sus_2022_pn_kdr_20261104172835.pdf;;Sulpemi;Nurul;verified
+KDR-013;caseId;KDR-013;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;;Sulpemi;Nurul;verified
+KDR-013;nomorPerkara;125/Pid.Sus/2022/PN Kdr;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;1;Sulpemi;Nurul;verified
+KDR-013;pengadilan;Pengedilan Negri Kediri;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;1;Sulpemi;Nurul;verified
+KDR-013;tanggalPutusan;31/10/2022;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;24;Sulpemi;Nurul;verified
+KDR-013;terdakwaKode;Null;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;1;Sulpemi;Nurul;verified
+KDR-013;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-013;beratBarangBuktiGram;0,015;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;21,16;Sulpemi;Nurul;verified
+KDR-013;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) jo. Pasal 132 UU RI No. 35/2009; Atau Kedua: Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU RI No. 35/2009; Atau Ketiga: Pasal 127 ayat (1) huruf a UU RI No. 35/2009 jo. Pasal 55 ayat (1) ke-1 KUHP";putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;2,4,7;Sulpemi;Nurul;verified
+KDR-013;pasalTerbukti;Pasal 127 ayat (1) huruf a UU RI No. 35/2009 jo. Pasal 55 ayat (1) ke-1 KUHP;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;21,23;Sulpemi;Nurul;verified
+KDR-013;tuntutanBulan;12;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;2,18;Sulpemi;Nurul;verified
+KDR-013;vonisBulan;14;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;23;Sulpemi;Nurul;verified
+KDR-013;dendaRupiah;null;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;;Sulpemi;Nurul;verified
+KDR-013;barangBukti;1 pipet kaca sisa sabu, 1 bong, 1 klip kosong 4x6 cm, 1 korek api gas, 1 skrop sedotan, 1 HP Oppo Reno 4F warna putih mutiara;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-013;keadaanMemberatkan;"Perbuatan terdakwa menghambat program pemerintah dalam pemberantasan penyalahgunaan narkotika; Terdakwa sudah pernah dihukum";putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;23;Sulpemi;Nurul;verified
+KDR-013;keadaanMeringankan;"Terdakwa bersikap sopan di persidangan; Terdakwa mengakui terus terang perbuatannya sehingga memperlancar proses persidangan";putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;23;Sulpemi;Nurul;verified
+KDR-013;sourcePages;1, 2, 4, 6, 7, 9, 16, 21, 23, 24;putusan_125_pid.sus_2022_pn_kdr_20261104173059.pdf;;Sulpemi;Nurul;verified
+KDR-014;caseId;KDR-014;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;;Sulpemi;Nurul;verified
+KDR-014;nomorPerkara;128/Pid.Sus/2022/PN Kdr;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;1;Sulpemi;Nurul;verified
+KDR-014;pengadilan;Pengedilan Negri Kediri;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;1;Sulpemi;Nurul;verified
+KDR-014;tanggalPutusan;17/11/2022;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;31;Sulpemi;Nurul;verified
+KDR-014;terdakwaKode;Null;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;1;Sulpemi;Nurul;verified
+KDR-014;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;2,4,5;Sulpemi;Nurul;verified
+KDR-014;beratBarangBuktiGram;0,039;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;25,2;Sulpemi;Nurul;verified
+KDR-014;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU RI No. 35/2009; Atau Kedua: Pasal 112 ayat (1) Jo Pasal 132 ayat (1) UU RI No. 35/2009; Atau Ketiga: Pasal 127 ayat (1) huruf a UU RI No. 35/2009 Jo Pasal 55 ayat (1) KUHP";putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-014;pasalTerbukti;Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika jo. Pasal 55 ayat (1) ke-1 KUHP;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;28,3;Sulpemi;Nurul;verified
+KDR-014;tuntutanBulan;18;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;2,21;Sulpemi;Nurul;verified
+KDR-014;vonisBulan;18;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;29;Sulpemi;Nurul;verified
+KDR-014;dendaRupiah;null;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;;Sulpemi;Nurul;verified
+KDR-014;barangBukti;2 poket sabu (bruto 0,47g / netto 0,039g), 2 pipet kaca, 2 bong, 1 korek gas, 1 timbangan digital, 1 skrop sedotan, 1 pak klip kosong, 1 HP Realme C2 biru, 1 HP Realme C31 silver;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-014;keadaanMemberatkan;Perbuatan Para Terdakwa tidak menunjang program pemerintah dalam rangka pemberantasan peredaran narkotika;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;27,29;Sulpemi;Nurul;verified
+KDR-014;keadaanMeringankan;"Para Terdakwa mengaku dan menyesali perbuatannya serta berjanji tidak mengulanginya; Para Terdakwa belum pernah dihukum";putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;27,3;Sulpemi;Nurul;verified
+KDR-014;sourcePages;1, 2, 3, 5, 7, 10, 17, 18, 27, 29, 30, 31;putusan_128_pid.sus_2022_pn_kdr_20261104173215.pdf;;Sulpemi;Nurul;verified
+KDR-015;caseId;KDR-015;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;;Sulpemi;Nurul;verified
+KDR-015;nomorPerkara;129/Pid.Sus/2022/PN Kdr;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;1;Sulpemi;Nurul;verified
+KDR-015;pengadilan;Pengedilan Negri Kediri;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;1;Sulpemi;Nurul;verified
+KDR-015;tanggalPutusan;24/11/2022;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;17;Sulpemi;Nurul;verified
+KDR-015;terdakwaKode;Null;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;1;Sulpemi;Nurul;verified
+KDR-015;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-015;beratBarangBuktiGram;0,034;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;6,4;Sulpemi;Nurul;verified
+KDR-015;pasalDakwaan;"Pertama: Pasal 114 ayat (1) UU No. 35/2009; Atau Kedua: Pasal 112 ayat (1) UU No. 35/2009; Atau Ketiga: Pasal 127 ayat (1) huruf a UU No. 35/2009";putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-015;pasalTerbukti;Pasal 112 ayat (1) Undang-Undang No. 35 Tahun 2009 tentang Narkotika;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;15,17;Sulpemi;Nurul;verified
+KDR-015;tuntutanBulan;84;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;2,12;Sulpemi;Nurul;verified
+KDR-015;vonisBulan;84;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;16;Sulpemi;Nurul;verified
+KDR-015;dendaRupiah;Rp. 1.000.000.000;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;16,17;Sulpemi;Nurul;verified
+KDR-015;barangBukti;1 poket sabu (bruto 0,43g / netto 0,034g), 1 HP Samsung J2 warna hitam;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;2,15,17;Sulpemi;Nurul;verified
+KDR-015;keadaanMemberatkan;"Bertentangan dengan program pemerintah memberantas narkoba; Dapat merusak masyarakat/generasi muda; Terdakwa sudah pernah dipidana";putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;16;Sulpemi;Nurul;verified
+KDR-015;keadaanMeringankan;"Terdakwa bersikap sopan dan mengaku terus terang di persidangan; Terdakwa merasa menyesal";putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;16;Sulpemi;Nurul;verified
+KDR-015;sourcePages;1, 2, 4, 5, 6, 8, 11, 12, 15, 16, 17, 18;putusan_129_pid.sus_2022_pn_kdr_20261104173245.pdf;;Sulpemi;Nurul;verified
+KDR-016;caseId;KDR-016;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;;Sulpemi;Nurul;verified
+KDR-016;nomorPerkara;133/Pid.Sus/2022/PN Kdr;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;1;Sulpemi;Nurul;verified
+KDR-016;pengadilan;Pengedilan Negri Kediri;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;1;Sulpemi;Nurul;verified
+KDR-016;tanggalPutusan;22/11/2022;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;19;Sulpemi;Nurul;verified
+KDR-016;terdakwaKode;Null;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;1;Sulpemi;Nurul;verified
+KDR-016;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-016;beratBarangBuktiGram;0,23;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;19,18;Sulpemi;Nurul;verified
+KDR-016;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UU RI No. 35/2009; Atau Kedua: Pasal 112 ayat (1) UU RI No. 35/2009";putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-016;pasalTerbukti;Pasal 114 ayat (1) Undang-undang RI Nomor 35 Tahun 2009 tentang Narkotika;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;17,18;Sulpemi;Nurul;verified
+KDR-016;tuntutanBulan;72;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;2,3;Sulpemi;Nurul;verified
+KDR-016;vonisBulan;72;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;17;Sulpemi;Nurul;verified
+KDR-016;dendaRupiah;Rp. 1.000.000.000;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;17;Sulpemi;Nurul;verified
+KDR-016;barangBukti;1 paket sabu seberat 0,23 gram, 1 pipet kaca, 1 skrop sedotan plastik, 1 korek api gas, 1 seperangkat alat hisap sabu, 1 plastik klip kosong, 1 timbangan digital, 1 bungkus rokok Marlboro kosong, 1 HP Xiaomi Redmi 4 warna putih;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;2,5,7;Sulpemi;Nurul;verified
+KDR-016;keadaanMemberatkan;Perbuatan Terdakwa sangat bertentangan dengan program Pemerintah yang sedang gencar-gencarnya memberantas penyalahgunaan Narkotika;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;18;Sulpemi;Nurul;verified
+KDR-016;keadaanMeringankan;"Terdakwa menyesali perbuatannya; Terdakwa berlaku sopan dan terus terang di persidangan; Terdakwa berjanji tidak mengulangi perbuatannya; Terdakwa belum pernah dihukum";putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;18;Sulpemi;Nurul;verified
+KDR-016;sourcePages;1, 2, 5, 6, 8, 12, 17, 18, 19;putusan_133_pid.sus_2022_pn_kdr_20261104173305.pdf;;Sulpemi;Nurul;verified
+KDR-017;caseId;KDR-017;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;;Sulpemi;Nurul;verified
+KDR-017;nomorPerkara;145/Pid.Sus/2022/PN Kdr;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;1;Sulpemi;Nurul;verified
+KDR-017;pengadilan;Pengedilan Negri Kediri;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;1;Sulpemi;Nurul;verified
+KDR-017;tanggalPutusan;21/12/2022;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;52;Sulpemi;Nurul;verified
+KDR-017;terdakwaKode;Null;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;1;Sulpemi;Nurul;verified
+KDR-017;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;4,6,7;Sulpemi;Nurul;verified
+KDR-017;beratBarangBuktiGram;0,07;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;44,38;Sulpemi;Nurul;verified
+KDR-017;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UU No. 35/2009 jo Pasal 132 ayat (1) UU No. 35/2009; Atau Kedua: Pasal 112 ayat (1) UU No. 35/2009 jo Pasal 132 ayat (1) UU No. 35/2009; Atau Ketiga: Pasal 127 ayat (1) huruf a UU No. 35/2009 jo Pasal 55 ayat (1) ke-1 KUHP";putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;3,4,5;Sulpemi;Nurul;verified
+KDR-017;pasalTerbukti;Pasal 127 ayat (1) huruf a Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika jo. Pasal 55 ayat (1) ke-1 KUHP;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;49,51;Sulpemi;Nurul;verified
+KDR-017;tuntutanBulan;20;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;3,23;Sulpemi;Nurul;verified
+KDR-017;vonisBulan;30;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;50;Sulpemi;Nurul;verified
+KDR-017;dendaRupiah;null;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;;Sulpemi;Nurul;verified
+KDR-017;barangBukti;1 paket sabu (0,07 gr), 1 bungkus rokok, 1 set alat hisap (bong), 1 korek api gas, 1 bukti transfer BRI, 5 unit HP.;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;3,5,49;Sulpemi;Nurul;verified
+KDR-017;keadaanMemberatkan;Perbuatan Para Terdakwa tidak menunjang program pemerintah dalam rangka pemberantasan peredaran narkotika;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;48,5;Sulpemi;Nurul;verified
+KDR-017;keadaanMeringankan;"Para Terdakwa mengaku dan menyesali perbuatannya serta berjanji tidak mengulangi perbuatannya; Para Terdakwa belum pernah dihukum";putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;48,5;Sulpemi;Nurul;verified
+KDR-017;sourcePages;1, 2, 3, 5, 9, 11, 16, 34, 40, 50, 51, 52;putusan_145_pid.sus_2022_pn_kdr_20261104185731.pdf;;Sulpemi;Nurul;verified
+KDR-018;caseId;KDR-018;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;;Sulpemi;Nurul;verified
+KDR-018;nomorPerkara;146/Pid.Sus/2022/PN Kdr;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;1;Sulpemi;Nurul;verified
+KDR-018;pengadilan;Pengedilan Negri Kediri;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;1;Sulpemi;Nurul;verified
+KDR-018;tanggalPutusan;01/12/2022;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;21;Sulpemi;Nurul;verified
+KDR-018;terdakwaKode;Null;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;1;Sulpemi;Nurul;verified
+KDR-018;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-018;beratBarangBuktiGram;0,36;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;19,14;Sulpemi;Nurul;verified
+KDR-018;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UU RI No. 35/2009; Atau Kedua: Pasal 112 ayat (1) UU RI No. 35/2009; Atau Ketiga: Pasal 127 ayat (1) huruf a UU RI No. 35/2009";putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-018;pasalTerbukti;Pasal 127 ayat (1) huruf a UU Nomor 35 Tahun 2009 tentang Narkotik;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;19,21;Sulpemi;Nurul;verified
+KDR-018;tuntutanBulan;12;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;2,15;Sulpemi;Nurul;verified
+KDR-018;vonisBulan;10;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;20;Sulpemi;Nurul;verified
+KDR-018;dendaRupiah;null;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;;Sulpemi;Nurul;verified
+KDR-018;barangBukti;1 paket sabu (0,36 gr), 1 skrop sedotan, 1 kotak headset, 1 pipet kaca, 1 set alat hisap (bong), 1 korek api gas, 1 klip plastik bekas, 1 HP Samsung A70 biru;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;2,19,21;Sulpemi;Nurul;verified
+KDR-018;keadaanMemberatkan;Perbuatan terdakwa menghambat program pemerintah dalam pemberantasan penyalahgunaan narkotika;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;20;Sulpemi;Nurul;verified
+KDR-018;keadaanMeringankan;"Terdakwa bersikap sopan di persidangan; mengakui terus terang perbuatannya; masih berusia muda; belum pernah dihukum";putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;20;Sulpemi;Nurul;verified
+KDR-018;sourcePages;1, 2, 4, 6, 8, 19, 20, 21;putusan_146_pid.sus_2022_pn_kdr_20261104173456.pdf;;Sulpemi;Nurul;verified
+KDR-019;caseId;KDR-019;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;;Sulpemi;Nurul;verified
+KDR-019;nomorPerkara;147/Pid.Sus/2022/PN Kdr;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;1;Sulpemi;Nurul;verified
+KDR-019;pengadilan;Pengedilan Negri Kediri;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;1;Sulpemi;Nurul;verified
+KDR-019;tanggalPutusan;13/12/2022;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;24;Sulpemi;Nurul;verified
+KDR-019;terdakwaKode;Null;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;1;Sulpemi;Nurul;verified
+KDR-019;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-019;beratBarangBuktiGram;0,13;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;22,7;Sulpemi;Nurul;verified
+KDR-019;pasalDakwaan;"Kesatu: Pasal 114 Ayat (1) UU RI No. 35/2009; Atau Kedua: Pasal 112 Ayat (1) UU RI No. 35/2009; Atau Ketiga: Pasal 127 ayat (1) huruf a UU RI No. 35/2009";putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-019;pasalTerbukti;Pasal 127 ayat (1) huruf a Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;22,23;Sulpemi;Nurul;verified
+KDR-019;tuntutanBulan;20;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;2,17;Sulpemi;Nurul;verified
+KDR-019;vonisBulan;24;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;23;Sulpemi;Nurul;verified
+KDR-019;dendaRupiah;null;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;;Sulpemi;Nurul;verified
+KDR-019;barangBukti;1 pocket sabu (0,13 gr), 1 plastik klip, 1 bekas bungkus rokok Surya Pro 16, 1 unit HP Android Redmi 9C biru;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;2,10,11;Sulpemi;Nurul;verified
+KDR-019;keadaanMemberatkan;Perbuatan Terdakwa tidak menunjang program pemerintah dalam rangka pemberantasan peredaran narkotika;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;21,23;Sulpemi;Nurul;verified
+KDR-019;keadaanMeringankan;"Terdakwa mengakui dan menyesali perbuatannya serta berjanji tidak mengulangi perbuatannya; Terdakwa belum pernah dihukum";putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;21,23;Sulpemi;Nurul;verified
+KDR-019;sourcePages;1, 2, 4, 6, 8, 14, 21, 23, 24;putusan_147_pid.sus_2022_pn_kdr_20261104173519.pdf;;Sulpemi;Nurul;verified
+KDR-020;caseId;KDR-020;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;;Sulpemi;Nurul;verified
+KDR-020;nomorPerkara;149/Pid.Sus/2021/PN Kdr;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;1;Sulpemi;Nurul;verified
+KDR-020;pengadilan;Pengedilan Negri Kediri;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;1;Sulpemi;Nurul;verified
+KDR-020;tanggalPutusan;14/10/2021;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;25;Sulpemi;Nurul;verified
+KDR-020;terdakwaKode;Null;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;1;Sulpemi;Nurul;verified
+KDR-020;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;3,4,5;Sulpemi;Nurul;verified
+KDR-020;beratBarangBuktiGram;144,9;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;23;Sulpemi;Nurul;verified
+KDR-020;pasalDakwaan;"Kesatu: Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35/2009; Atau Kedua: Pasal 112 ayat (2) jo Pasal 132 ayat (1) UU RI No. 35/2009";putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;3,4,6;Sulpemi;Nurul;verified
+KDR-020;pasalTerbukti;Pasal 114 Ayat (2) UU RI No. 35 Tahun 2009 jo. Pasal 132 Ayat (1) UU RI No. 35 Tahun 2009;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;23,24;Sulpemi;Nurul;verified
+KDR-020;tuntutanBulan;132;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;2,9;Sulpemi;Nurul;verified
+KDR-020;vonisBulan;132;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;24;Sulpemi;Nurul;verified
+KDR-020;dendaRupiah;Rp. 1.000.000.000;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;;Sulpemi;Nurul;verified
+KDR-020;barangBukti;5 paket sabu (total 144,9 gr), 1 timbangan digital, 2 unit HP (Oppo & Vivo), 2 sedotan plastik, 1 klip plastik, 1 bekas bungkus Indomie & lakban coklat;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;3,5,6;Sulpemi;Nurul;verified
+KDR-020;keadaanMemberatkan;"Perbuatan para terdakwa meresahkan masyarakat; tidak mendukung program pemerintah dalam memberantas peredaran narkotika secara ileg";putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;24;Sulpemi;Nurul;verified
+KDR-020;keadaanMeringankan;"Para Terdakwa sopan di persidangan dan mengakui perbuatannya; menyesali perbuatannya dan berjanji tidak mengulangi; belum pernah dihukum sebelumnya";putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;24;Sulpemi;Nurul;verified
+KDR-020;sourcePages;1, 3, 6, 8, 23, 24, 25;putusan_149_pid.sus_2021_pn_kdr_20261104180925.pdf;;Sulpemi;Nurul;verified
+KDR-021;caseId;KDR-021;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;;Sulpemi;Nurul;verified
+KDR-021;nomorPerkara;154/Pid.Sus/2022/PN Kdr;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;1;Sulpemi;Nurul;verified
+KDR-021;pengadilan;Pengedilan Negri Kediri;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;1;Sulpemi;Nurul;verified
+KDR-021;tanggalPutusan;15/12/2022;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;18;Sulpemi;Nurul;verified
+KDR-021;terdakwaKode;Null;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;1;Sulpemi;Nurul;verified
+KDR-021;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-021;beratBarangBuktiGram;0,68;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;16,17;Sulpemi;Nurul;verified
+KDR-021;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UU No. 35/2009; Atau Kedua: Pasal 112 ayat (1) UU RI No. 35/2009; Atau Ketiga: Pasal 127 ayat (1) huruf a UU No. 35/2009";putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-021;pasalTerbukti;Pasal 114 ayat (1) Undang-Undang R.I. No. 35 Tahun 2009 tentang Narkotika;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;15,17;Sulpemi;Nurul;verified
+KDR-021;tuntutanBulan;72;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;2,13;Sulpemi;Nurul;verified
+KDR-021;vonisBulan;74;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;17;Sulpemi;Nurul;verified
+KDR-021;dendaRupiah;Rp. 1.000.000.000;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;16,17;Sulpemi;Nurul;verified
+KDR-021;barangBukti;1 pochet sabu (0,68 gr), 1 bungkus rokok Halim merah, 1 tas selempang Eiger hitam, 1 HP Redmi Note 9 biru;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-021;keadaanMemberatkan;Perbuatan Terdakwa tidak menunjang program pemerintah dalam rangka pemberantasan peredaran Narkotika;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;17;Sulpemi;Nurul;verified
+KDR-021;keadaanMeringankan;"Terdakwa bersikap sopan di persidangan; mengakui perbuatannya dan berjanji tidak mengulanginya lagi";putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;17;Sulpemi;Nurul;verified
+KDR-021;sourcePages;1, 2, 4, 5, 7, 17, 18;putusan_154_pid.sus_2022_pn_kdr_20261104185618.pdf;;Sulpemi;Nurul;verified
+KDR-022;caseId;KDR-022;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;;Sulpemi;Nurul;verified
+KDR-022;nomorPerkara;162/Pid.Sus/2021/PN Kdr;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;1;Sulpemi;Nurul;verified
+KDR-022;pengadilan;Pengedilan Negri Kediri;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;1;Sulpemi;Nurul;verified
+KDR-022;tanggalPutusan;09/11/2021;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;39;Sulpemi;Nurul;verified
+KDR-022;terdakwaKode;Null;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;1;Sulpemi;Nurul;verified
+KDR-022;jenisNarkotika;"Sabu (Metamfetamina); Pil LL / Triheksifenidil HCL (Daftar Obat Keras)";putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;2,5,6;Sulpemi;Nurul;verified
+KDR-022;beratBarangBuktiGram;1,07;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;37,34;Sulpemi;Nurul;verified
+KDR-022;pasalDakwaan;"Kesatu: Pasal 196 UU RI No. 36/2009 tentang Kesehatan; Dan Kedua: Primair Pasal 114 Ayat (1) jo Pasal 132 Ayat (1) UU RI No. 35/2009; Subsidair Pasal 112 Ayat (1) jo Pasal 132 Ayat (1) UU RI No. 35/2009; Lebih Subsidair Pasal 127 Ayat (1) huruf a UU RI No. 35/2009";putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-022;pasalTerbukti;Pasal 196 UU No. 36 Tahun 2009 tentang Kesehatan dan Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;31,38;Sulpemi;Nurul;verified
+KDR-022;tuntutanBulan;72;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;2,3;Sulpemi;Nurul;verified
+KDR-022;vonisBulan;60;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;37;Sulpemi;Nurul;verified
+KDR-022;dendaRupiah;Rp. 1.000.000.000;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;;Sulpemi;Nurul;verified
+KDR-022;barangBukti;5 botol Pil LL (total 4.500 butir), 1 HP Oppo A5S merah, 1 pipet kaca sisa kerak sabu (berat kotor 1,07 gr), 1 botol air mineral terangkai sedotan, 1 korek api gas;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;2,5,13;Sulpemi;Nurul;verified
+KDR-022;keadaanMemberatkan;"Terdakwa berperan aktif mencari dan berhubungan dengan bandar sabu; berulang kali menjual Pil LL untuk kebutuhan sehari-hari; merusak generasi muda; tidak mendukung program pemerintah dalam pemberantasan tindak pidana Narkotika";putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;37;Sulpemi;Nurul;verified
+KDR-022;keadaanMeringankan;"Terdakwa masih berusia muda; menyesali perbuatannya; berlaku sopan dan terus terang di persidangan; berjanji tidak mengulangi perbuatannya";putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;38;Sulpemi;Nurul;verified
+KDR-022;sourcePages;1, 2, 6, 8, 10, 12, 37, 38, 39;putusan_162_pid.sus_2021_pn_kdr_20261104181303.pdf;;Sulpemi;Nurul;verified
+KDR-023;caseId;KDR-023;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;;Sulpemi;Nurul;verified
+KDR-023;nomorPerkara;163/Pid.Sus/2022/PN Kdr;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;1;Sulpemi;Nurul;verified
+KDR-023;pengadilan;Pengedilan Negri Kediri;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;1;Sulpemi;Nurul;verified
+KDR-023;tanggalPutusan;19/01/2023;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;16;Sulpemi;Nurul;verified
+KDR-023;terdakwaKode;Null;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;1;Sulpemi;Nurul;verified
+KDR-023;jenisNarkotika;Sabu-sabu (Metamfetamina);putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-023;beratBarangBuktiGram;2,96;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;15,16;Sulpemi;Nurul;verified
+KDR-023;pasalDakwaan;"Kesatu: Pasal 114 ayat (1) UURI No. 35/2009; Atau Kedua: Pasal 112 ayat (1) UURI No. 35/2009";putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-023;pasalTerbukti;Pasal 112 ayat (1) UURI No. 35 Tahun 2009 tentang Narkotika;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;14,16;Sulpemi;Nurul;verified
+KDR-023;tuntutanBulan;90;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;2,11;Sulpemi;Nurul;verified
+KDR-023;vonisBulan;96;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;15;Sulpemi;Nurul;verified
+KDR-023;dendaRupiah;Rp. 200.000.000;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;15,16;Sulpemi;Nurul;verified
+KDR-023;barangBukti;1 poket sabu (berat kotor 2,96 gr) beserta plastik klip pembungkusnya, 1 unit HP Redmi Type 5A warna hitam beserta kartu simcardnya;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;2,9,11;Sulpemi;Nurul;verified
+KDR-023;keadaanMemberatkan;"Perbuatan Terdakwa meresahkan masyarakat; menghambat program pemerintah dalam pemberantasan penyalahgunaan narkotika; Terdakwa sudah pernah dihukum";putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;15;Sulpemi;Nurul;verified
+KDR-023;keadaanMeringankan;"Terdakwa bersikap sopan di persidangan; mengakui terus terang perbuatannya";putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;15,16;Sulpemi;Nurul;verified
+KDR-023;sourcePages;1, 2, 4, 6, 15, 16;putusan_163_pid.sus_2022_pn_kdr_20261104180400.pdf;;Sulpemi;Nurul;verified
+KDR-024;caseId;KDR-024;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;;Sulpemi;Nurul;verified
+KDR-024;nomorPerkara;131/Pid.Sus/2022/PN Kdr;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;1;Sulpemi;Nurul;verified
+KDR-024;pengadilan;Pengedilan Negri Kediri;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;1;Sulpemi;Nurul;verified
+KDR-024;tanggalPutusan;28/11/2022;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;24;Sulpemi;Nurul;verified
+KDR-024;terdakwaKode;Null;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;1;Sulpemi;Nurul;verified
+KDR-024;jenisNarkotika;"Sabu (Metamfetamina); Pil LL / Triheksifenidil HCl (Obat Keras)";putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-024;beratBarangBuktiGram;2,96;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;2,4,6;Sulpemi;Nurul;verified
+KDR-024;pasalDakwaan;"Kesatu: Pasal 112 ayat (1) UU No. 35/2009; Atau Kedua: Pasal 127 ayat (1) huruf a UU RI No. 35/2009 dan Pasal 196 UU No. 36/2009 tentang Kesehatan";putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;2,3,5;Sulpemi;Nurul;verified
+KDR-024;pasalTerbukti;Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika dan Pasal 196 UU RI Nomor 36 Tahun 2009 tentang Kesehatan;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;22;Sulpemi;Nurul;verified
+KDR-024;tuntutanBulan;44;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;2,18;Sulpemi;Nurul;verified
+KDR-024;vonisBulan;48;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;22;Sulpemi;Nurul;verified
+KDR-024;dendaRupiah;Rp. 800.000.000;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;;Sulpemi;Nurul;verified
+KDR-024;barangBukti;Sabu berat bersih 0,26 gr, 3 sedotan plastik, 1 pipet kaca, 1 korek api, 1 tas kulit hitam, Pil LL 1.286 butir, 1 HP Xiaomi Redmi warna biru;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;2,9,19;Sulpemi;Nurul;verified
+KDR-024;keadaanMemberatkan;Terdakwa tidak mengindahkan program pemerintah yang sedang gencar memberantas peredaran Narkotika dan Obat Terlarang;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;22;Sulpemi;Nurul;verified
+KDR-024;keadaanMeringankan;"Terdakwa menyesal dan mengakui terus terang atas perbuatannya; Terdakwa belum pernah dihukum";putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;23;Sulpemi;Nurul;verified
+KDR-024;sourcePages;1, 2, 5, 7, 10, 23, 24;putusan_131_pid.sus_2022_pn_kdr_20261104173324.pdf;;Sulpemi;Nurul;verified
+KDR-025;caseId;KDR-025;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;;Sulpemi;Nurul;verified
+KDR-025;nomorPerkara;151/Pid.Sus/2021/PN Kdr;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;1;Sulpemi;Nurul;verified
+KDR-025;pengadilan;Pengedilan Negri Kediri;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;1;Sulpemi;Nurul;verified
+KDR-025;tanggalPutusan;11/11/2021;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;19;Sulpemi;Nurul;verified
+KDR-025;terdakwaKode;Null;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;1;Sulpemi;Nurul;verified
+KDR-025;jenisNarkotika;Ganja (Narkotika Golongan I dalam bentuk tanaman);putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-025;beratBarangBuktiGram;98;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;2,9,10;Sulpemi;Nurul;verified
+KDR-025;pasalDakwaan;"Kesatu: Pasal 114 Ayat (1) UU RI No. 35/2009; Atau Kedua: Pasal 111 Ayat (1) UU RI No. 35/2009";putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;2,3,4;Sulpemi;Nurul;verified
+KDR-025;pasalTerbukti;Pasal 111 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;17,19;Sulpemi;Nurul;verified
+KDR-025;tuntutanBulan;66;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;2,3;Sulpemi;Nurul;verified
+KDR-025;vonisBulan;78;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;18;Sulpemi;Nurul;verified
+KDR-025;dendaRupiah;Rp. 1.000.000.000;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;;Sulpemi;Nurul;verified
+KDR-025;barangBukti;1 paket ganja kering (berat bersih 98 gr), 1 kardus paket pengiriman, 1 pak kertas papir, 2 batang pohon ganja tinggi 3,5 cm dalam 1 pot, 1 unit HP Merk Realme;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;2,6,8;Sulpemi;Nurul;verified
+KDR-025;keadaanMemberatkan;Perbuatan Terdakwa sangat bertentangan dengan program Pemerintah yang sedang gencar-gencarnya memberantas penyalahgunaan Narkotika;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;18;Sulpemi;Nurul;verified
+KDR-025;keadaanMeringankan;"Terdakwa menyesali perbuatannya; berlaku sopan dan terus terang di persidangan; berjanji tidak mengulangi perbuatannya";putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;18;Sulpemi;Nurul;verified
+KDR-025;sourcePages;1, 2, 7, 8, 18, 19, 20;putusan_151_pid.sus_2021_pn_kdr_20261104181506.pdf;;Sulpemi;Nurul;verified
+KDR-026;caseId;KDR-026;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;;Nurul;Sulpemi;verified
+KDR-026;nomorPerkara;18/Pid.Sus/2025/PN Kdr;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;1;Nurul;Sulpemi;verified
+KDR-026;pengadilan;Pengadilan Negeri Kediri;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;1;Nurul;Sulpemi;verified
+KDR-026;tanggalPutusan;07/05/2025;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;42;Nurul;Sulpemi;verified
+KDR-026;terdakwaKode;Null;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;1;Nurul;Sulpemi;verified
+KDR-026;jenisNarkotika;Metamfetamina (Sabu);putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;3,5,6;Nurul;Sulpemi;verified
+KDR-026;beratBarangBuktiGram;0,021;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;6,12,13;Nurul;Sulpemi;verified
+KDR-026;pasalDakwaan;"Pasal 114 ayat (1) dan Pasal 112 ayat (1) UU 35/2009; Pasal 60 ayat (2) UU 5/1997 jo. Permenkes 31/2023";putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;2,4,7;Nurul;Sulpemi;verified
+KDR-026;pasalTerbukti;Pasal 114 ayat (1) UU 35/2009 dan Pasal 60 ayat (2) UU 5/1997;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;37,41;Nurul;Sulpemi;verified
+KDR-026;tuntutanBulan;108;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;2,27;Nurul;Sulpemi;verified
+KDR-026;vonisBulan;108;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;39;Nurul;Sulpemi;verified
+KDR-026;dendaRupiah;Rp1.000.000.000;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;39,41;Nurul;Sulpemi;verified
+KDR-026;barangBukti;Obat Alprazolam, Hexymer, Amitriptyline, pipet kaca, plastik klip, timbangan digital, bong, kotak obat, dan HP Redmi 10C;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;2,11,12;Nurul;Sulpemi;verified
+KDR-026;keadaanMemberatkan;"Merusak kesehatan generasi muda; meresahkan masyarakat; tidak mendukung program pemberantasan narkotika; pernah dihukum";putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;41;Nurul;Sulpemi;verified
+KDR-026;keadaanMeringankan;Menyesali perbuatan dan berjanji tidak mengulanginya;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;38,41;Nurul;Sulpemi;verified
+KDR-026;sourcePages;1-2, 4-10, 17-18, 40-43;putusan_18_pid.sus_2025_pn_kdr_20261104184749.pdf;;Nurul;Sulpemi;verified
+KDR-027;caseId;KDR-027;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;;Nurul;Sulpemi;verified
+KDR-027;nomorPerkara;35/Pid.Sus/2025/PN Kdr;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;1;Nurul;Sulpemi;verified
+KDR-027;pengadilan;Pengadilan Negeri Kediri;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;1;Nurul;Sulpemi;verified
+KDR-027;tanggalPutusan;08/05/2025;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;29;Nurul;Sulpemi;verified
+KDR-027;terdakwaKode;Null;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;1;Nurul;Sulpemi;verified
+KDR-027;jenisNarkotika;Metamfetamina (Sabu);putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-027;beratBarangBuktiGram;18,571;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;27,29;Nurul;Sulpemi;verified
+KDR-027;pasalDakwaan;Pasal 114 ayat (2) dan Pasal 112 ayat (2) UU 35/2009;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;2,3,6;Nurul;Sulpemi;verified
+KDR-027;pasalTerbukti;Pasal 114 ayat (2) UU 35/2009;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;27,28;Nurul;Sulpemi;verified
+KDR-027;tuntutanBulan;120;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;2,8;Nurul;Sulpemi;verified
+KDR-027;vonisBulan;120;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;28;Nurul;Sulpemi;verified
+KDR-027;dendaRupiah;Rp1.000.000.000;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;28,29;Nurul;Sulpemi;verified
+KDR-027;barangBukti;"7 bungkus plastik klip berisi sabu (18,571 gram); 1 alat hisap sabu; 1 HP Xiaomi warna biru langit";putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;2,8,10;Nurul;Sulpemi;verified
+KDR-027;keadaanMemberatkan;"Tidak menunjang program pemerintah dalam pemberantasan peredaran narkotika; pernah dipidana atas perkara yang sama";putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;26,28;Nurul;Sulpemi;verified
+KDR-027;keadaanMeringankan;"Bersikap sopan di persidangan; menyesal, mengakui perbuatan dan berjanji tidak mengulanginya";putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;26,28;Nurul;Sulpemi;verified
+KDR-027;sourcePages;1-2, 5-8, 27-29;putusan_35_pid.sus_2025_pn_kdr_20261104184556.pdf;;Nurul;Sulpemi;verified
+KDR-028;caseId;KDR-028;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;;Nurul;Sulpemi;verified
+KDR-028;nomorPerkara;45/Pid.Sus/2026/PN Kdr;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;1;Nurul;Sulpemi;verified
+KDR-028;pengadilan;Pengadilan Negeri Kediri;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;1;Nurul;Sulpemi;verified
+KDR-028;tanggalPutusan;23/04/2026;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;44;Nurul;Sulpemi;verified
+KDR-028;terdakwaKode;Null;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;1;Nurul;Sulpemi;verified
+KDR-028;jenisNarkotika;Metamfetamina (Sabu);putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;3,4,5;Nurul;Sulpemi;verified
+KDR-028;beratBarangBuktiGram;Null;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;;Nurul;Sulpemi;verified
+KDR-028;pasalDakwaan;"Pasal 114 ayat (1) UU 35/2009 jo. UU 1/2026; Pasal 435 jo. Pasal 138 ayat (2) dan (3) UU 17/2023 jo. UU 1/2026";putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;1,2,3;Nurul;Sulpemi;verified
+KDR-028;pasalTerbukti;"Pasal 114 ayat (1) UU 35/2009 jo. UU 1/2026; Pasal 435 jo. Pasal 138 ayat (2) dan (3) UU 17/2023 jo. UU 1/2026";putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;40,43;Nurul;Sulpemi;verified
+KDR-028;tuntutanBulan;84;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;2,2;Nurul;Sulpemi;verified
+KDR-028;vonisBulan;96;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;41;Nurul;Sulpemi;verified
+KDR-028;dendaRupiah;Rp1.000.000.000;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;42,43;Nurul;Sulpemi;verified
+KDR-028;barangBukti;"36 botol berisi 36.000 pil LL; 1 kardus dan karung putih; 1 alat hisap sabu; 1 korek api gas oranye; 4 potongan sedotan; 1 HP Oppo A16";putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;2,4,7;Nurul;Sulpemi;verified
+KDR-028;keadaanMemberatkan;"Pernah dihukum dalam perkara peredaran pil Double L; perbuatan meresahkan masyarakat; membantu mengedarkan narkotika dan obat terlarang yang merusak masa depan generasi muda";putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;41;Nurul;Sulpemi;verified
+KDR-028;keadaanMeringankan;"Masih berusia muda; mengakui dan menyesali perbuatannya; berjanji tidak mengulangi perbuatannya";putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;41;Nurul;Sulpemi;verified
+KDR-028;sourcePages;1-3, 6-7, 34-36, 41-44;putusan_45_pid.sus_2026_pn_kdr_20261104191344.pdf;;Nurul;Sulpemi;verified
+KDR-029;caseId;KDR-029;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;;Nurul;Sulpemi;verified
+KDR-029;nomorPerkara;46/Pid.Sus/2026/PN Kdr;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;1;Nurul;Sulpemi;verified
+KDR-029;pengadilan;Pengadilan Negeri Kediri;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;1;Nurul;Sulpemi;verified
+KDR-029;tanggalPutusan;23/04/2026;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;45;Nurul;Sulpemi;verified
+KDR-029;terdakwaKode;Null;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;1;Nurul;Sulpemi;verified
+KDR-029;jenisNarkotika;Metamfetamina (Sabu);putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;3,4,5;Nurul;Sulpemi;verified
+KDR-029;beratBarangBuktiGram;9,24;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;27,44;Nurul;Sulpemi;verified
+KDR-029;pasalDakwaan;"Pasal 114 ayat (2) UU 35/2009 jo. UU 1/2026; Pasal 435 jo. Pasal 138 ayat (2) dan (3) UU 17/2023 jo. UU 1/2026";putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;1,2,4;Nurul;Sulpemi;verified
+KDR-029;pasalTerbukti;"Pasal 114 ayat (2) UU 35/2009 jo. UU 1/2026; Pasal 435 jo. Pasal 138 ayat (2) dan (3) UU 17/2023 jo. UU 1/2026";putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;41,44;Nurul;Sulpemi;verified
+KDR-029;tuntutanBulan;96;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;2,19;Nurul;Sulpemi;verified
+KDR-029;vonisBulan;114;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;42;Nurul;Sulpemi;verified
+KDR-029;dendaRupiah;Rp1.000.000.000;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;43,44;Nurul;Sulpemi;verified
+KDR-029;barangBukti;"20 paket sabu; pil LL; plastik klip; timbangan digital; alat hisap; pipet kaca; HP; sepeda motor; uang tunai; dan perlengkapan lainnya.";putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;3,4,5;Nurul;Sulpemi;verified
+KDR-029;keadaanMemberatkan;"Pernah dihukum dalam perkara peredaran Pil Double L; perbuatan meresahkan masyarakat; membantu mengedarkan narkotika dan obat terlarang yang dapat merusak masa depan generasi muda";putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;42;Nurul;Sulpemi;verified
+KDR-029;keadaanMeringankan;"Masih berusia muda; mengakui dan menyesali perbuatannya; berjanji tidak mengulangi perbuatannya";putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;42;Nurul;Sulpemi;verified
+KDR-029;sourcePages;1-3, 5-13, 41-45;putusan_46_pid.sus_2026_pn_kdr_20261104184347.pdf;;Nurul;Sulpemi;verified
+KDR-030;caseId;KDR-030;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;;Nurul;Sulpemi;verified
+KDR-030;nomorPerkara;51/Pid.Sus/2026/PN Kdr;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;1;Nurul;Sulpemi;verified
+KDR-030;pengadilan;Pengadilan Negeri Kediri;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;1;Nurul;Sulpemi;verified
+KDR-030;tanggalPutusan;02/07/2025;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;33;Nurul;Sulpemi;verified
+KDR-030;terdakwaKode;Null;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;1;Nurul;Sulpemi;verified
+KDR-030;jenisNarkotika;Metamfetamina (Sabu);putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;2,4,5;Nurul;Sulpemi;verified
+KDR-030;beratBarangBuktiGram;9,75;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;33,31;Nurul;Sulpemi;verified
+KDR-030;pasalDakwaan;"Pasal 114 ayat (2) atau Pasal 112 ayat (2) UU 35/2009; Pasal 435 UU 17/2023";putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;2,3,6;Nurul;Sulpemi;verified
+KDR-030;pasalTerbukti;"Pasal 114 ayat (2) UU 35/2009; Pasal 435 UU 17/2023";putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;30,32;Nurul;Sulpemi;verified
+KDR-030;tuntutanBulan;156;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;2,24;Nurul;Sulpemi;verified
+KDR-030;vonisBulan;156;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;32;Nurul;Sulpemi;verified
+KDR-030;dendaRupiah;Rp1.000.000.000;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;31,33;Nurul;Sulpemi;verified
+KDR-030;barangBukti;"Sabu; pil LL; timbangan digital; alat hisap; plastik klip; korek api; buku catatan; 2 HP";putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;2,11,14;Nurul;Sulpemi;verified
+KDR-030;keadaanMemberatkan;Terdakwa tidak mendukung upaya pemerintah dan masyarakat dalam memberantas penyalahgunaan narkotika;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;32;Nurul;Sulpemi;verified
+KDR-030;keadaanMeringankan;Mengakui dan menyesali perbuatannya;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;32;Nurul;Sulpemi;verified
+KDR-030;sourcePages;1-10, 31-34;putusan_51_pid.sus_2025_pn_kdr_20261104180205.pdf;;Nurul;Sulpemi;verified
+KDR-031;caseId;KDR-031;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;;Nurul;Sulpemi;verified
+KDR-031;nomorPerkara;85/Pid.Sus/2026/PN Kdr;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;1;Nurul;Sulpemi;verified
+KDR-031;pengadilan;Pengadilan Negeri Kediri;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;1;Nurul;Sulpemi;verified
+KDR-031;tanggalPutusan;28/08/2025;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;20;Nurul;Sulpemi;verified
+KDR-031;terdakwaKode;Null;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;1;Nurul;Sulpemi;verified
+KDR-031;jenisNarkotika;Metamfetamina (Sabu);putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;3,4,5;Nurul;Sulpemi;verified
+KDR-031;beratBarangBuktiGram;null;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;;Nurul;Sulpemi;verified
+KDR-031;pasalDakwaan;Pasal 114 ayat (1) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-031;pasalTerbukti;Pasal 114 ayat (1) UU 35/2009;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;16,2;Nurul;Sulpemi;verified
+KDR-031;tuntutanBulan;84;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;2,3;Nurul;Sulpemi;verified
+KDR-031;vonisBulan;60;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;20;Nurul;Sulpemi;verified
+KDR-031;dendaRupiah;Rp1.000.000.000;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;2,2;Nurul;Sulpemi;verified
+KDR-031;barangBukti;1 HP Vivo putih beserta SIM card;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;2,8,9;Nurul;Sulpemi;verified
+KDR-031;keadaanMemberatkan;"Tidak mendukung program pemberantasan narkoba; merusak kesehatan diri sendiri dan orang lain; pernah dihukum perkara sabu 2 kali";putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;19;Nurul;Sulpemi;verified
+KDR-031;keadaanMeringankan;Mengakui, menyesali perbuatan, dan berjanji tidak mengulangi;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;19;Nurul;Sulpemi;verified
+KDR-031;sourcePages;1-2, 16-20;putusan_85_pid.sus_2025_pn_kdr_20261104185440.pdf;;Nurul;Sulpemi;verified
+KDR-032;caseId;KDR-032;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;;Nurul;Sulpemi;verified
+KDR-032;nomorPerkara;99/Pid.Sus/2026/PN Kdr;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;1;Nurul;Sulpemi;verified
+KDR-032;pengadilan;Pengadilan Negeri Kediri;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;1;Nurul;Sulpemi;verified
+KDR-032;tanggalPutusan;28/08/2025;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;38;Nurul;Sulpemi;verified
+KDR-032;terdakwaKode;Null;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;1;Nurul;Sulpemi;verified
+KDR-032;jenisNarkotika;Metamfetamina (Sabu);putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-032;beratBarangBuktiGram;0,11;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;38,22;Nurul;Sulpemi;verified
+KDR-032;pasalDakwaan;"Pasal 114 ayat (1) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009; Pasal 435 UU 17/2023";putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;2,3,6;Nurul;Sulpemi;verified
+KDR-032;pasalTerbukti;"Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009; Pasal 435 UU 17/2023";putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;35,37;Nurul;Sulpemi;verified
+KDR-032;tuntutanBulan;66;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;2,27;Nurul;Sulpemi;verified
+KDR-032;vonisBulan;48;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;37;Nurul;Sulpemi;verified
+KDR-032;dendaRupiah;Rp1.000.000.000;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;36,37;Nurul;Sulpemi;verified
+KDR-032;barangBukti;"132 pil LL; bungkus rokok Roekoen; HP Vivo Y16";putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;2,4,7;Nurul;Sulpemi;verified
+KDR-032;keadaanMemberatkan;Tidak menunjang program pemerintah dalam pemberantasan peredaran narkotika dan obat-obatan;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;34,37;Nurul;Sulpemi;verified
+KDR-032;keadaanMeringankan;"Bersikap sopan; menyesal, mengakui perbuatan, dan berjanji tidak mengulangi";putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;37;Nurul;Sulpemi;verified
+KDR-032;sourcePages;1-2, 5-10, 35-38;putusan_99_pid.sus_2025_pn_kdr_20261104180343.pdf;;Nurul;Sulpemi;verified
+KDR-033;caseId;KDR-033;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;;Nurul;Sulpemi;verified
+KDR-033;nomorPerkara;116/Pid.Sus/2026/PN Kdr;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;1;Nurul;Sulpemi;verified
+KDR-033;pengadilan;Pengadilan Negeri Kediri;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;1;Nurul;Sulpemi;verified
+KDR-033;tanggalPutusan;31/10/2022;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;29;Nurul;Sulpemi;verified
+KDR-033;terdakwaKode;Null;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;1;Nurul;Sulpemi;verified
+KDR-033;jenisNarkotika;Metamfetamina (Sabu);putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-033;beratBarangBuktiGram;11,022;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;7,4;Nurul;Sulpemi;verified
+KDR-033;pasalDakwaan;Pasal 114 ayat (2) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;2,3,6;Nurul;Sulpemi;verified
+KDR-033;pasalTerbukti;Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;25,28;Nurul;Sulpemi;verified
+KDR-033;tuntutanBulan;192;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;2,3;Nurul;Sulpemi;verified
+KDR-033;vonisBulan;Null;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;25;Nurul;Sulpemi;verified
+KDR-033;dendaRupiah;Null;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;27;Nurul;Sulpemi;verified
+KDR-033;barangBukti;"3 bungkus sabu; 2 timbangan elektrik; 1 bendel plastik klip kosong; 1 sendok plastik; 1 kotak hitam; 1 alat pres plastik; 2 buku catatan; 1 HP Oppo biru beserta SIM card";putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;2,27,28;Nurul;Sulpemi;verified
+KDR-033;keadaanMemberatkan;"Bertentangan dengan program pemerintah dalam pemberantasan narkotika; peredaran dilakukan berulang kali; jangkauan peredaran ke beberapa kota di Jawa Timur dengan jumlah hingga 5 kg";putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;27,28;Nurul;Sulpemi;verified
+KDR-033;keadaanMeringankan;Tidak ada;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;25,28;Nurul;Sulpemi;verified
+KDR-033;sourcePages; 1-2, 3-8, 27-29;putusan_116_pid.sus_2022_pn_kdr_20261104181239.pdf;;Nurul;Sulpemi;verified
+KDR-034;caseId;KDR-034;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;;Nurul;Sulpemi;verified
+KDR-034;nomorPerkara;118/Pid.Sus/2026/PN Kdr;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;1;Nurul;Sulpemi;verified
+KDR-034;pengadilan;Pengadilan Negeri Kediri;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;1;Nurul;Sulpemi;verified
+KDR-034;tanggalPutusan;29/10/2025;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;26;Nurul;Sulpemi;verified
+KDR-034;terdakwaKode;Null;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;1;Nurul;Sulpemi;verified
+KDR-034;jenisNarkotika;Metamfetamina (Sabu);putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-034;beratBarangBuktiGram;0,16;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;25,24;Nurul;Sulpemi;verified
+KDR-034;pasalDakwaan;Pasal 114 ayat (1) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;2,3,6;Nurul;Sulpemi;verified
+KDR-034;pasalTerbukti;Pasal 114 ayat (1) jo. Pasal 132 UU No. 35 Tahun 2009;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;23,25;Nurul;Sulpemi;verified
+KDR-034;tuntutanBulan;96;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;2;Nurul;Sulpemi;verified
+KDR-034;vonisBulan;132;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;24;Nurul;Sulpemi;verified
+KDR-034;dendaRupiah;Rp1.000.000.000;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;23,25;Nurul;Sulpemi;verified
+KDR-034;barangBukti;"1 pocket sabu; 7 klip bekas; 3 micro tube; 2 scrop sedotan; bong; korek api; uang tunai Rp550.000; HP Vivo Y17 S";putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;2,10,12;Nurul;Sulpemi;verified
+KDR-034;keadaanMemberatkan;"Tidak mendukung pemberantasan narkotika; pernah dihukum perkara narkotika jenis sabu sebanyak 2 kali";putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;24;Nurul;Sulpemi;verified
+KDR-034;keadaanMeringankan;"Merasa bersalah; menyesali perbuatan; memiliki tanggungan keluarga";putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;24;Nurul;Sulpemi;verified
+KDR-034;sourcePages; 1-3, 23-26;putusan_118_pid.sus_2025_pn_kdr_20261104180902.pdf;;Nurul;Sulpemi;verified
+KDR-035;caseId;KDR-035;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;;Nurul;Sulpemi;verified
+KDR-035;nomorPerkara;140/Pid.Sus/2026/PN Kdr;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;1;Nurul;Sulpemi;verified
+KDR-035;pengadilan;Pengadilan Negeri Kediri;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;1;Nurul;Sulpemi;verified
+KDR-035;tanggalPutusan;17/11/2022;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;18;Nurul;Sulpemi;verified
+KDR-035;terdakwaKode;Null;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;1;Nurul;Sulpemi;verified
+KDR-035;jenisNarkotika;Metamfetamina (Sabu);putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-035;beratBarangBuktiGram;0,35;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;17,14;Nurul;Sulpemi;verified
+KDR-035;pasalDakwaan;Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU No. 35 Tahun 2009;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-035;pasalTerbukti;Pasal 112 UU No. 35 Tahun 2009;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;15,17;Nurul;Sulpemi;verified
+KDR-035;tuntutanBulan;78;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;2,6;Nurul;Sulpemi;verified
+KDR-035;vonisBulan;50;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;16;Nurul;Sulpemi;verified
+KDR-035;dendaRupiah;Rp800.000.000;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;16,17;Nurul;Sulpemi;verified
+KDR-035;barangBukti;"1 paket sabu; 2 pipet kaca; gantungan kunci boneka pink; HP Oppo biru; sepeda motor Suzuki Satria 150";putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;2,4,5;Nurul;Sulpemi;verified
+KDR-035;keadaanMemberatkan;"Tidak mendukung program pemerintah dalam pemberantasan narkotika; pernah dihukum";putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;16;Nurul;Sulpemi;verified
+KDR-035;keadaanMeringankan;"Mengakui dan menyesali perbuatan; berjanji tidak mengulangi";putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;16;Nurul;Sulpemi;verified
+KDR-035;sourcePages;1-2, 16-18;putusan_140_pid.sus_2022_pn_kdr_20261104175847.pdf;;Nurul;Sulpemi;verified
+KDR-036;caseId;KDR-036;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;;Nurul;Sulpemi;verified
+KDR-036;nomorPerkara;148/Pid.Sus/2026/PN Kdr;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;1;Nurul;Sulpemi;verified
+KDR-036;pengadilan;Pengadilan Negeri Kediri;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;1;Nurul;Sulpemi;verified
+KDR-036;tanggalPutusan;21/10/2021;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;17;Nurul;Sulpemi;verified
+KDR-036;terdakwaKode;Null;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;1;Nurul;Sulpemi;verified
+KDR-036;jenisNarkotika;Metamfetamina (Sabu);putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;3,4,5;Nurul;Sulpemi;verified
+KDR-036;beratBarangBuktiGram;97;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;2,10,16;Nurul;Sulpemi;verified
+KDR-036;pasalDakwaan;Pasal 114 ayat (1) atau Pasal 111 ayat (1) UU No. 35 Tahun 2009;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;2,4,6;Nurul;Sulpemi;verified
+KDR-036;pasalTerbukti;Pasal 111 ayat (1) UU No. 35 Tahun 2009;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;16,17;Nurul;Sulpemi;verified
+KDR-036;tuntutanBulan;54;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;2,12;Nurul;Sulpemi;verified
+KDR-036;vonisBulan;54;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;16;Nurul;Sulpemi;verified
+KDR-036;dendaRupiah;Rp1.000.000.000;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;17;Nurul;Sulpemi;verified
+KDR-036;barangBukti;"1 paket ganja kering; kardus paket pengiriman; puntung rokok Andalan; HP Realme C2 biru";putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-036;keadaanMemberatkan;"Tidak mendukung pemberantasan narkotika; meresahkan masyarakat";putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;16;Nurul;Sulpemi;verified
+KDR-036;keadaanMeringankan;"Mengakui perbuatan; sopan di persidangan; belum pernah dihukum";putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;16;Nurul;Sulpemi;verified
+KDR-036;sourcePages;1-3, 16-18;putusan_148_pid.sus_2021_pn_kdr_20261104173942.pdf;;Nurul;Sulpemi;verified
+KDR-037;caseId;KDR-037;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;;Nurul;Sulpemi;verified
+KDR-037;nomorPerkara;161/Pid.Sus/2026/PN Kdr;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;1;Nurul;Sulpemi;verified
+KDR-037;pengadilan;Pengadilan Negeri Kediri;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;1;Nurul;Sulpemi;verified
+KDR-037;tanggalPutusan;29/01/2026;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;45;Nurul;Sulpemi;verified
+KDR-037;terdakwaKode;Null;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;1;Nurul;Sulpemi;verified
+KDR-037;jenisNarkotika;Pil dobel L;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;3,5,6;Nurul;Sulpemi;verified
+KDR-037;beratBarangBuktiGram;null;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;5,7,9;Nurul;Sulpemi;verified
+KDR-037;pasalDakwaan;"Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009; Pasal 435 jo. Pasal 138 ayat (2) dan (3) UU No. 17 Tahun 2023";putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;2,4,7;Nurul;Sulpemi;verified
+KDR-037;pasalTerbukti;"Pasal 610 ayat (1) huruf a KUHP jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009; Pasal 435 UU No. 17 Tahun 2023";putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;43,45;Nurul;Sulpemi;verified
+KDR-037;tuntutanBulan;72;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;2,4;Nurul;Sulpemi;verified
+KDR-037;vonisBulan;66;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;44;Nurul;Sulpemi;verified
+KDR-037;dendaRupiah;Rp1.000.000.000;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;43,45;Nurul;Sulpemi;verified
+KDR-037;barangBukti;"1 botol berisi 1.000 pil dobel L; HP Samsung Galaxy A21 S biru";putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;3,21,23;Nurul;Sulpemi;verified
+KDR-037;keadaanMemberatkan;Tidak menunjang program pemerintah dalam pemberantasan peredaran narkotika dan obat-obatan;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;42,44;Nurul;Sulpemi;verified
+KDR-037;keadaanMeringankan;"Sopan di persidangan; menyesal; mengakui perbuatan; berjanji tidak mengulangi";putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;42,44;Nurul;Sulpemi;verified
+KDR-037;sourcePages;1-3, 44-46;putusan_161_pid.sus_2025_pn_kdr_20261104183758.pdf;;Nurul;Sulpemi;verified
+KDR-038;caseId;KDR-038;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;;Nurul;Sulpemi;verified
+KDR-038;nomorPerkara;164/Pid.Sus/2026/PN Kdr;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;1;Nurul;Sulpemi;verified
+KDR-038;pengadilan;Pengadilan Negeri Kediri;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;1;Nurul;Sulpemi;verified
+KDR-038;tanggalPutusan;02/02/2023;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;19;Nurul;Sulpemi;verified
+KDR-038;terdakwaKode;Null;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;1;Nurul;Sulpemi;verified
+KDR-038;jenisNarkotika;Metamfetamina (Sabu);putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-038;beratBarangBuktiGram;6,24;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;3,6,13;Nurul;Sulpemi;verified
+KDR-038;pasalDakwaan; Pasal 114 ayat (1) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-038;pasalTerbukti;Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;16,18;Nurul;Sulpemi;verified
+KDR-038;tuntutanBulan;75;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;2,16;Nurul;Sulpemi;verified
+KDR-038;vonisBulan;90;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;17;Nurul;Sulpemi;verified
+KDR-038;dendaRupiah;Rp1.000.000.000;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;17,18;Nurul;Sulpemi;verified
+KDR-038;barangBukti;"14 paket sabu; timbangan digital; 2 pak plastik klip kosong; tas kecil hitam; pipet kaca; bong; HP Oppo A57 hitam";putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;2,18;Nurul;Sulpemi;verified
+KDR-038;keadaanMemberatkan;Tidak mendukung pemerintah dan masyarakat dalam pemberantasan penyalahgunaan narkotika;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;17,18;Nurul;Sulpemi;verified
+KDR-038;keadaanMeringankan;"Belum pernah dijatuhi pidana; memiliki tanggungan keluarga";putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;18;Nurul;Sulpemi;verified
+KDR-038;sourcePages;1-3, 16-19;putusan_164_pid.sus_2022_pn_kdr_20261104180611.pdf;;Nurul;Sulpemi;verified
+KDR-039;caseId;KDR-039;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;;Nurul;Sulpemi;verified
+KDR-039;nomorPerkara;166/Pid.Sus/2026/PN Kdr;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;1;Nurul;Sulpemi;verified
+KDR-039;pengadilan;Pengadilan Negeri Kediri;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;1;Nurul;Sulpemi;verified
+KDR-039;tanggalPutusan;30/11/2023;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;27;Nurul;Sulpemi;verified
+KDR-039;terdakwaKode;Null;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;1;Nurul;Sulpemi;verified
+KDR-039;jenisNarkotika;Metamfetamina (Sabu);putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-039;beratBarangBuktiGram;9.16;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;26,27;Nurul;Sulpemi;verified
+KDR-039;pasalDakwaan;Pasal 114 ayat (2) UU 35/2009;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-039;pasalTerbukti;Pasal 114 ayat (2) UU 35/2009;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;24,27;Nurul;Sulpemi;verified
+KDR-039;tuntutanBulan;120;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;2,2;Nurul;Sulpemi;verified
+KDR-039;vonisBulan;120;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;26;Nurul;Sulpemi;verified
+KDR-039;dendaRupiah;Rp1.000.000.000;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;25,27;Nurul;Sulpemi;verified
+KDR-039;barangBukti;"16 klip sabu; jaket biru dongker; alat hisap; 3 pipet kaca; korek api; 3 timbangan digital; 2 pak klip plastik; HP Samsung hitam beserta SIM card";putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;2,3,6;Nurul;Sulpemi;verified
+KDR-039;keadaanMemberatkan;"Meresahkan masyarakat; menghambat program pemerintah dalam pemberantasan narkotika; pernah dihukum";putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;26;Nurul;Sulpemi;verified
+KDR-039;keadaanMeringankan;"Sopan di persidangan; mengakui terus terang perbuatannya";putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;26;Nurul;Sulpemi;verified
+KDR-039;sourcePages;1-2, 26-28;putusan_166_pid.sus_2023_pn_kdr_20261104191616.pdf;;Nurul;Sulpemi;verified
+KDR-040;caseId;KDR-040;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;;Nurul;Sulpemi;verified
+KDR-040;nomorPerkara;172/Pid.Sus/2026/PN Kdr;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;1;Nurul;Sulpemi;verified
+KDR-040;pengadilan;Pengadilan Negeri Kediri;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;1;Nurul;Sulpemi;verified
+KDR-040;tanggalPutusan;19/12/2023;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;22;Nurul;Sulpemi;verified
+KDR-040;terdakwaKode;Null;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;1;Nurul;Sulpemi;verified
+KDR-040;jenisNarkotika;Metamfetamina (Sabu);putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-040;beratBarangBuktiGram;0,43;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;19,21;Nurul;Sulpemi;verified
+KDR-040;pasalDakwaan;"Pasal 112 ayat (1) UU 35/2009; Pasal 435 UU 17/2023";putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-040;pasalTerbukti;"Pasal 112 ayat (1) UU 35/2009; Pasal 435 UU 17/2023";putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;19,21;Nurul;Sulpemi;verified
+KDR-040;tuntutanBulan;84;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;2,19;Nurul;Sulpemi;verified
+KDR-040;vonisBulan;84;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;20;Nurul;Sulpemi;verified
+KDR-040;dendaRupiah;Rp800.000.000;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;19,21;Nurul;Sulpemi;verified
+KDR-040;barangBukti;"Kristal sabu 0,43 gram; 2 timbangan digital; alat hisap; 3 pipet kaca; scrop sedotan; korek api; plastik klip; uang tunai Rp950.000; HP Vivo Y12";putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-040;keadaanMemberatkan;"Meresahkan masyarakat; menghambat program pemerintah dalam pemberantasan narkotika dan obat terlarang";putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;20;Nurul;Sulpemi;verified
+KDR-040;keadaanMeringankan;"Sopan di persidangan; mengakui terus terang perbuatannya; belum pernah dihukum";putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;20;Nurul;Sulpemi;verified
+KDR-040;sourcePages;1-2, 20-22;putusan_172_pid.sus_2023_pn_kdr_20261104180047.pdf;;Nurul;Sulpemi;verified
+KDR-041;caseId;KDR-041;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;;Nurul;Sulpemi;verified
+KDR-041;nomorPerkara;173/Pid.Sus/2026/PN Kdr;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;1;Nurul;Sulpemi;verified
+KDR-041;pengadilan;Pengadilan Negeri Kediri;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;1;Nurul;Sulpemi;verified
+KDR-041;tanggalPutusan;22/12/2021;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;17;Nurul;Sulpemi;verified
+KDR-041;terdakwaKode;Null;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;1;Nurul;Sulpemi;verified
+KDR-041;jenisNarkotika;Metamfetamina (Sabu);putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-041;beratBarangBuktiGram;1,889;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;;Nurul;Sulpemi;verified
+KDR-041;pasalDakwaan;Pasal 112 ayat (1) UU 35/2009;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-041;pasalTerbukti;Pasal 112 ayat (1) UU 35/2009;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;15,16;Nurul;Sulpemi;verified
+KDR-041;tuntutanBulan;60;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;2,7;Nurul;Sulpemi;verified
+KDR-041;vonisBulan;48;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;16;Nurul;Sulpemi;verified
+KDR-041;dendaRupiah;Rp800.000.000;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;;Nurul;Sulpemi;verified
+KDR-041;barangBukti;"2 bungkus sabu 1,209 gram dan 0,68 gram; HP Itel biru metalik beserta SIM card; ATM BRI";putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;17;Nurul;Sulpemi;verified
+KDR-041;keadaanMemberatkan;Tidak mendukung program pemerintah dalam memberantas peredaran narkotika secara ilegal;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;16;Nurul;Sulpemi;verified
+KDR-041;keadaanMeringankan;"Sopan dan mengakui perbuatan; menyesal dan berjanji tidak mengulangi; memiliki tanggungan keluarga; belum pernah dihukum";putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;16;Nurul;Sulpemi;verified
+KDR-041;sourcePages; 1-2, 16-17;putusan_173_pid.sus_2021_pn_kdr_20261104183235.pdf;;Nurul;Sulpemi;verified
+KDR-042;caseId;KDR-042;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;;Nurul;Sulpemi;verified
+KDR-042;nomorPerkara;174/Pid.Sus/2026/PN Kdr;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;1;Nurul;Sulpemi;verified
+KDR-042;pengadilan;Pengadilan Negeri Kediri;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;1;Nurul;Sulpemi;verified
+KDR-042;tanggalPutusan;29/12/2021;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;16;Nurul;Sulpemi;verified
+KDR-042;terdakwaKode;Null;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;1;Nurul;Sulpemi;verified
+KDR-042;jenisNarkotika;Metamfetamina (Sabu);putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-042;beratBarangBuktiGram;4,01;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;16,15;Nurul;Sulpemi;verified
+KDR-042;pasalDakwaan;Pasal 114 ayat (1) jo. Pasal 132 UU 35/2009 atau Pasal 112 ayat (1) jo. Pasal 132 UU 35/2009;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-042;pasalTerbukti;Pasal 112 ayat (1) UU 35/2009;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;14,16;Nurul;Sulpemi;verified
+KDR-042;tuntutanBulan;84;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;2,4;Nurul;Sulpemi;verified
+KDR-042;vonisBulan;60;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;15;Nurul;Sulpemi;verified
+KDR-042;dendaRupiah;Rp800.000.000;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;;Nurul;Sulpemi;verified
+KDR-042;barangBukti;"5 klip sabu; bungkus rokok Gudang Garam Surya; tissue berlakban hitam; HP Oppo";putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;2,5,6;Nurul;Sulpemi;verified
+KDR-042;keadaanMemberatkan;"Bertentangan dengan program pemerintah dalam pemberantasan penyalahgunaan narkotika; pernah dihukum";putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;15;Nurul;Sulpemi;verified
+KDR-042;keadaanMeringankan;"Menyesali perbuatan; sopan dan terus terang di persidangan; berjanji tidak mengulangi";putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;15;Nurul;Sulpemi;verified
+KDR-042;sourcePages;1-2, 14-16;putusan_174_pid.sus_2021_pn_kdr_20261104182706.pdf;;Nurul;Sulpemi;verified
+KDR-043;caseId;KDR-043;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;;Nurul;Sulpemi;verified
+KDR-043;nomorPerkara;176/Pid.Sus/2026/PN Kdr;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;1;Nurul;Sulpemi;verified
+KDR-043;pengadilan;Pengadilan Negeri Kediri;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;1;Nurul;Sulpemi;verified
+KDR-043;tanggalPutusan;08/12/2021;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;25;Nurul;Sulpemi;verified
+KDR-043;terdakwaKode;Null;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;1;Nurul;Sulpemi;verified
+KDR-043;jenisNarkotika;Metamfetamina (Sabu);putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;2,4,6;Nurul;Sulpemi;verified
+KDR-043;beratBarangBuktiGram;2,67;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;10,7;Nurul;Sulpemi;verified
+KDR-043;pasalDakwaan;Pasal 114 ayat (1) UU 35/2009 atau Pasal 112 ayat (1) UU 35/2009;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-043;pasalTerbukti;Pasal 114 ayat (1) UU 35/2009;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;22,24;Nurul;Sulpemi;verified
+KDR-043;tuntutanBulan;72;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;2,3;Nurul;Sulpemi;verified
+KDR-043;vonisBulan;78;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;24;Nurul;Sulpemi;verified
+KDR-043;dendaRupiah;Rp1.000.000.000;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;;Nurul;Sulpemi;verified
+KDR-043;barangBukti;"8 paket sabu; timbangan digital; 6 pak plastik klip; tas kain putih; koper mainan mini; kotak lintingan koran; bungkus rokok Surya Pro; tissue; kartu SIM; HP Samsung Galaxy J2 Prime";putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;2,8,10;Nurul;Sulpemi;verified
+KDR-043;keadaanMemberatkan;"Bertentangan dengan program pemerintah dalam pemberantasan peredaran narkotika; pernah dihukum";putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;24;Nurul;Sulpemi;verified
+KDR-043;keadaanMeringankan;"Menyesali perbuatan; sopan dan terus terang di persidangan; berjanji tidak mengulangi";putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;24;Nurul;Sulpemi;verified
+KDR-043;sourcePages;1-2, 23-25;putusan_176_pid.sus_2021_pn_kdr_20261104181907.pdf;;Nurul;Sulpemi;verified
+KDR-044;caseId;KDR-044;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;;Nurul;Sulpemi;verified
+KDR-044;nomorPerkara;179/Pid.Sus/2026/PN Kdr;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;1;Nurul;Sulpemi;verified
+KDR-044;pengadilan;Pengadilan Negeri Kediri;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;1;Nurul;Sulpemi;verified
+KDR-044;tanggalPutusan;29/12/2021;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;18;Nurul;Sulpemi;verified
+KDR-044;terdakwaKode;Null;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;1;Nurul;Sulpemi;verified
+KDR-044;jenisNarkotika;Metamfetamina (Sabu);putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-044;beratBarangBuktiGram;0,48;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;18,17;Nurul;Sulpemi;verified
+KDR-044;pasalDakwaan;Pasal 114 ayat (1) UU 35/2009 atau Pasal 112 ayat (1) UU 35/2009;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-044;pasalTerbukti;Pasal 112 ayat (1) UU 35/2009;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;16,18;Nurul;Sulpemi;verified
+KDR-044;tuntutanBulan;48;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;2,3;Nurul;Sulpemi;verified
+KDR-044;vonisBulan;48;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;17;Nurul;Sulpemi;verified
+KDR-044;dendaRupiah;Rp1.000.000.000;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;;Nurul;Sulpemi;verified
+KDR-044;barangBukti;"1 klip sabu 0,48 gram; tissue putih; bungkus kopi Kapal Api; HP Vivo 1820 hitam";putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;7,8,10;Nurul;Sulpemi;verified
+KDR-044;keadaanMemberatkan;Bertentangan dengan program pemerintah dalam pemberantasan peredaran narkotika;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;17;Nurul;Sulpemi;verified
+KDR-044;keadaanMeringankan;"Menyesali perbuatan dan berjanji tidak mengulangi; sopan dan terus terang di persidangan; belum pernah dihukum";putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;17;Nurul;Sulpemi;verified
+KDR-044;sourcePages;1-2, 17-18;putusan_179_pid.sus_2021_pn_kdr_20261104182943.pdf;;Nurul;Sulpemi;verified
+KDR-045;caseId;KDR-045;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;;Nurul;Sulpemi;verified
+KDR-045;nomorPerkara;182/Pid.Sus/2026/PN Kdr;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;1;Nurul;Sulpemi;verified
+KDR-045;pengadilan;Pengadilan Negeri Kediri;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;1;Nurul;Sulpemi;verified
+KDR-045;tanggalPutusan;03/01/2022;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;23;Nurul;Sulpemi;verified
+KDR-045;terdakwaKode;Null;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;1;Nurul;Sulpemi;verified
+KDR-045;jenisNarkotika;Metamfetamina (Sabu);putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-045;beratBarangBuktiGram;Null;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;;Nurul;Sulpemi;verified
+KDR-045;pasalDakwaan;" Pasal 114 ayat (1) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009; Pasal 3 ayat (1) jo. Pasal 12 ayat (1) Stbl 419/1949";putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;1,2,4;Nurul;Sulpemi;verified
+KDR-045;pasalTerbukti;"Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009; Pasal 3 ayat (1) jo. Pasal 12 ayat (1) Stbl 419/1949";putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;19,21;Nurul;Sulpemi;verified
+KDR-045;tuntutanBulan;72;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;1,17;Nurul;Sulpemi;verified
+KDR-045;vonisBulan;66;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;22;Nurul;Sulpemi;verified
+KDR-045;dendaRupiah;Rp800.000.000;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;;Nurul;Sulpemi;verified
+KDR-045;barangBukti;"1 paket sabu 3,86 gram; 10 pil dobel L; pipet kaca; plastik klip besar";putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;2,10,11;Nurul;Sulpemi;verified
+KDR-045;keadaanMemberatkan;Pernah dihukum;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;22;Nurul;Sulpemi;verified
+KDR-045;keadaanMeringankan;Mengaku terus terang perbuatannya;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;22;Nurul;Sulpemi;verified
+KDR-045;sourcePages;1-2, 21-23;putusan_182_pid.sus_2021_pn_kdr_20261104183436.pdf;;Nurul;Sulpemi;verified
+KDR-046;caseId;KDR-046;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;;Nurul;Sulpemi;verified
+KDR-046;nomorPerkara;183/Pid.Sus/2026/PN Kdr;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;1;Nurul;Sulpemi;verified
+KDR-046;pengadilan;Pengadilan Negeri Kediri;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;1;Nurul;Sulpemi;verified
+KDR-046;tanggalPutusan;03/01/2022;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;21;Nurul;Sulpemi;verified
+KDR-046;terdakwaKode;Null;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;1;Nurul;Sulpemi;verified
+KDR-046;jenisNarkotika;Metamfetamina (Sabu);putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-046;beratBarangBuktiGram;Null;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;;Nurul;Sulpemi;verified
+KDR-046;pasalDakwaan;"Pasal 114 ayat (1) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009; Pasal 3 ayat (1) jo. Pasal 12 ayat (1) Stbl 419/1949";putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;2,4,6;Nurul;Sulpemi;verified
+KDR-046;pasalTerbukti;"Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009; Pasal 3 ayat (1) jo. Pasal 12 ayat (1) Stbl 419/1949";putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;19,2;Nurul;Sulpemi;verified
+KDR-046;tuntutanBulan;Null;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;1,8;Nurul;Sulpemi;verified
+KDR-046;vonisBulan;54;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;20;Nurul;Sulpemi;verified
+KDR-046;dendaRupiah;Rp800.000.000;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;19;Nurul;Sulpemi;verified
+KDR-046;barangBukti;"1 paket sabu 3,86 gram; 10 pil dobel L; pipet kaca; plastik klip besar";putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;19,2;Nurul;Sulpemi;verified
+KDR-046;keadaanMemberatkan;Pernah dihukum;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;20;Nurul;Sulpemi;verified
+KDR-046;keadaanMeringankan;Mengaku terus terang perbuatannya;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;20;Nurul;Sulpemi;verified
+KDR-046;sourcePages; 1-3, 19-21;putusan_183_pid.sus_2021_pn_kdr_20261104185027.pdf;;Nurul;Sulpemi;verified
+KDR-047;caseId;KDR-047;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;;Nurul;Sulpemi;verified
+KDR-047;nomorPerkara;189/Pid.Sus/2026/PN Kdr;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;1;Nurul;Sulpemi;verified
+KDR-047;pengadilan;Pengadilan Negeri Kediri;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;1;Nurul;Sulpemi;verified
+KDR-047;tanggalPutusan;20/01/2022;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;25;Nurul;Sulpemi;verified
+KDR-047;terdakwaKode;Null;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;1;Nurul;Sulpemi;verified
+KDR-047;jenisNarkotika;Metamfetamina (Sabu);putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-047;beratBarangBuktiGram;0,017;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;7,5;Nurul;Sulpemi;verified
+KDR-047;pasalDakwaan;Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009 atau Pasal 127 ayat (1) huruf a jo. Pasal 55 ayat (1) ke-1 KUHP;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-047;pasalTerbukti;Pasal 127 ayat (1) huruf a jo. Pasal 55 ayat (1) ke-1 KUHP;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;23,25;Nurul;Sulpemi;verified
+KDR-047;tuntutanBulan;10;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;2,3;Nurul;Sulpemi;verified
+KDR-047;vonisBulan;8;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;24;Nurul;Sulpemi;verified
+KDR-047;dendaRupiah; Null;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;;Nurul;Sulpemi;verified
+KDR-047;barangBukti;"1 pocket sabu; 2 HP (Xiaomi dan Samsung); 1 sepeda motor Honda Vario beserta STNK dan kunci";putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;2,5,7;Nurul;Sulpemi;verified
+KDR-047;keadaanMemberatkan;Tidak menunjang program pemerintah dalam pemberantasan peredaran narkotika;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;23,24;Nurul;Sulpemi;verified
+KDR-047;keadaanMeringankan;"Mengaku dan menyesali perbuatan; berjanji tidak mengulangi; belum pernah dihukum";putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;23,25;Nurul;Sulpemi;verified
+KDR-047;sourcePages;1-5, 24-26;putusan_189_pid.sus_2021_pn_kdr_20261104185427.pdf;;Nurul;Sulpemi;verified
+KDR-048;caseId;KDR-048;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;;Nurul;Sulpemi;verified
+KDR-048;nomorPerkara;190/Pid.Sus/2026/PN Kdr;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;1;Nurul;Sulpemi;verified
+KDR-048;pengadilan;Pengadilan Negeri Kediri;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;1;Nurul;Sulpemi;verified
+KDR-048;tanggalPutusan;20/01/2022;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;25;Nurul;Sulpemi;verified
+KDR-048;terdakwaKode;Null;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;1;Nurul;Sulpemi;verified
+KDR-048;jenisNarkotika;Metamfetamina (Sabu);putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-048;beratBarangBuktiGram;0,017;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;15,7;Nurul;Sulpemi;verified
+KDR-048;pasalDakwaan; Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009 atau Pasal 127 ayat (1) huruf a jo. Pasal 55 ayat (1) ke-1 KUHP;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-048;pasalTerbukti;Pasal 127 ayat (1) huruf a jo. Pasal 55 ayat (1) ke-1 KUHP;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;23,25;Nurul;Sulpemi;verified
+KDR-048;tuntutanBulan;10;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;2,3;Nurul;Sulpemi;verified
+KDR-048;vonisBulan;8;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;24;Nurul;Sulpemi;verified
+KDR-048;dendaRupiah; Null;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;;Nurul;Sulpemi;verified
+KDR-048;barangBukti;"1 pocket sabu; 2 HP (Xiaomi dan Samsung); 1 sepeda motor Honda Vario beserta STNK dan kunci";putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;2,5,7;Nurul;Sulpemi;verified
+KDR-048;keadaanMemberatkan;Tidak menunjang program pemerintah dalam pemberantasan peredaran narkotika;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;22,24;Nurul;Sulpemi;verified
+KDR-048;keadaanMeringankan;"Mengaku dan menyesali perbuatan; berjanji tidak mengulangi; belum pernah dihukum";putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;22,24;Nurul;Sulpemi;verified
+KDR-048;sourcePages;1-5, 24-26;putusan_190_pid.sus_2021_pn_kdr_20261104185355.pdf;;Nurul;Sulpemi;verified
+KDR-049;caseId;KDR-049;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;;Nurul;Sulpemi;verified
+KDR-049;nomorPerkara;201/Pid.Sus/2026/PN Kdr;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;1;Nurul;Sulpemi;verified
+KDR-049;pengadilan;Pengadilan Negeri Kediri;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;1;Nurul;Sulpemi;verified
+KDR-049;tanggalPutusan;12/01/2022;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;21;Nurul;Sulpemi;verified
+KDR-049;terdakwaKode;Null;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;1;Nurul;Sulpemi;verified
+KDR-049;jenisNarkotika;Ganja;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-049;beratBarangBuktiGram;1,49;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;20,21;Nurul;Sulpemi;verified
+KDR-049;pasalDakwaan;Pasal 111 ayat (1) UU 35/2009 atau Pasal 127 ayat (1) huruf a UU 35/2009;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-049;pasalTerbukti;Pasal 127 ayat (1) huruf a UU 35/2009;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;19,21;Nurul;Sulpemi;verified
+KDR-049;tuntutanBulan;12;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;2;Nurul;Sulpemi;verified
+KDR-049;vonisBulan;11;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;20;Nurul;Sulpemi;verified
+KDR-049;dendaRupiah; Null;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;;Nurul;Sulpemi;verified
+KDR-049;barangBukti;"1 wadah plastik berisi ganja kering; 1 HP Redmi 8; 1 pak kertas paper; 1 kartu ATM BCA; 1 korek api; 1 tas selempang biru";putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-049;keadaanMemberatkan;Tidak menunjang program pemerintah dalam pemberantasan peredaran narkotika;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;19,2;Nurul;Sulpemi;verified
+KDR-049;keadaanMeringankan;"Mengaku dan menyesali perbuatan; berjanji tidak mengulangi; belum pernah dihukum";putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;19,21;Nurul;Sulpemi;verified
+KDR-049;sourcePages;1-5, 20-22;putusan_201_pid.sus_2021_pn_kdr_20261104185246.pdf;;Nurul;Sulpemi;verified
+KDR-050;caseId;KDR-050;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;;Nurul;Sulpemi;verified
+KDR-050;nomorPerkara;123/Pid.Sus/2026/PN Kdr;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;1;Nurul;Sulpemi;verified
+KDR-050;pengadilan;Pengadilan Negeri Kediri;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;1;Nurul;Sulpemi;verified
+KDR-050;tanggalPutusan;02/09/2021;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;40;Nurul;Sulpemi;verified
+KDR-050;terdakwaKode;Null;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;1;Nurul;Sulpemi;verified
+KDR-050;jenisNarkotika;Metamfetamina (Sabu);putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;2,3,4;Nurul;Sulpemi;verified
+KDR-050;beratBarangBuktiGram;0,029;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;36,32;Nurul;Sulpemi;verified
+KDR-050;pasalDakwaan;Pasal 114 ayat (1) atau Pasal 112 ayat (1) atau Pasal 127 ayat (1) huruf a UU 35/2009;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;2,3,5;Nurul;Sulpemi;verified
+KDR-050;pasalTerbukti; Pasal 112 ayat (1) UU 35/2009;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;37,39;Nurul;Sulpemi;verified
+KDR-050;tuntutanBulan;48;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;2,6;Nurul;Sulpemi;verified
+KDR-050;vonisBulan;60;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;38;Nurul;Sulpemi;verified
+KDR-050;dendaRupiah;Rp800.000.000;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;2;Nurul;Sulpemi;verified
+KDR-050;barangBukti;"1 plastik klip berisi sabu; 1 pak plastik klip kecil; 1 timbangan digital; 1 plastik kresek hitam; 1 HP Oppo A7 hijau";putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;3,4,13;Nurul;Sulpemi;verified
+KDR-050;keadaanMemberatkan;Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan penyalahgunaan narkotika;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;38;Nurul;Sulpemi;verified
+KDR-050;keadaanMeringankan;"Menyesali perbuatan; sopan dan terus terang di persidangan; berjanji tidak mengulangi perbuatan";putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;38;Nurul;Sulpemi;verified
+KDR-050;sourcePages;1-3, 10-15, 35-40;putusan_123_pid.sus_2021_pn_kdr_20261113145332.pdf;;Nurul;Sulpemi;verified
