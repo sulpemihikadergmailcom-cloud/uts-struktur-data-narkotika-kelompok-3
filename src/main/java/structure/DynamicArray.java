@@ -1,4 +1,4 @@
-package com.kelompok.narkotika. structure;
+package com.kelompok.narkotika.structure;
 
 import java.util.Arrays;
 import  java.util.Objects;
